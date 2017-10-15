@@ -89,7 +89,8 @@ grades <- read.csv("data/grades_player_ireland.csv")
 
 grades <- grades %>% 
   group_by(game) %>% 
-  mutate(team_mean = mean(grade))
+  mutate(team_mean = mean(grade)) %>% 
+  mutate(full_name = paste(firstname, surname), sep = " ")
 
 grades %>% 
   group_by(game) %>% 
@@ -101,6 +102,6 @@ ggplot(data = grades, aes(x = surname, y = grade)) +
   geom_point(size = 2) +
   facet_wrap(~ game, scales = "free_x") +
   scale_y_continuous(limits = c(0, 10), breaks = c(seq(0, 10, 2))) +
-  labs(x = NULL, y = "Grade", caption = "Grades retrieved from www.balls.ie") +
+  labs(x = NULL, y = "Player Rating", caption = "Grades retrieved from www.balls.ie") +
   theme(axis.text.x = element_text(angle = 45, hjust = 1)) 
 ggsave("plots/mt_01_ire_soccer.pdf", width = 6, height = 3)

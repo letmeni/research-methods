@@ -55,3 +55,15 @@ Below I post a selection of useful links for each tutorial. If you found additio
 #### Statistics
 - [Calculate mean and standard deviation by hand](https://www.mathsisfun.com/data/standard-deviation-formulas.html)
 - [Simulate the distribution of sample means](ttp://onlinestatbook.com/stat_sim/sampling_dist/)
+
+### Tutorial 02
+
+#### Statistics
+- [Subset data](https://stats.idre.ucla.edu/spss/modules/ubsetting-data/)
+- [Recode variables](https://libguides.library.kent.edu/SPSS/RecodeVariables)
+
+
+### Reserach Projects
+
+- [Collection of political datasets](https://github.com/erikgahner/PolData)
+- [NSD Data Overview](http://www.nsd.uib.no/nsd/english/datatjenester.html)
