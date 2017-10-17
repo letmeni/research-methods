@@ -61,9 +61,9 @@ Below I post a selection of useful links for each tutorial. If you found additio
 #### Statistics
 - [Subset data](https://stats.idre.ucla.edu/spss/modules/ubsetting-data/)
 - [Recode variables](https://libguides.library.kent.edu/SPSS/RecodeVariables)
+- [How to name variables and share data](https://doi.org/10.7287/peerj.preprints.3139v3)
 
-
-### Reserach Projects
+### Research Projects
 
 - [Collection of political datasets](https://github.com/erikgahner/PolData)
 - [NSD Data Overview](http://www.nsd.uib.no/nsd/english/datatjenester.html)
