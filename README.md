@@ -62,6 +62,15 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Subset data](https://stats.idre.ucla.edu/spss/modules/ubsetting-data/)
 - [Recode variables](https://libguides.library.kent.edu/SPSS/RecodeVariables)
 - [How to name variables and share data](https://doi.org/10.7287/peerj.preprints.3139v3)
+- [Change decimals for numeric variables](http://www.theanalysisfactor.com/variable-formats-in-spss-syntax/)
+
+### Tutorial 03
+
+#### Statistics
+
+- [Student's t-test explained](https://www.youtube.com/watch?v=pTmLQvMM-1M)
+- [Calculate t-test by hand](http://www.statisticshowto.com/probability-and-statistics/t-test/)
+- [Calculate t-test in SPSS](https://statistics.laerd.com/spss-tutorials/one-sample-t-test-using-spss-statistics.php)
 
 ### Research Projects
 
