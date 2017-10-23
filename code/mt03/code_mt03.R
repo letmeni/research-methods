@@ -14,9 +14,6 @@ theme_slides <- function(base_size = 12){
 ggplot2::theme_set(theme_slides())
 library(tidyverse)
 
-dta <- read.csv("/Users/stefan/Desktop/prices_dublin.csv") %>% 
-  mutate(price = round(price, 0))
-
 
 heights <- data.frame(
   height = rnorm(1000000, 170, 1)
@@ -34,6 +31,8 @@ sd(heights$height)
 ggplot(dta, aes(x = price)) +
   geom_density(aes(colour = area))
 
+library(tidyverse)
+
 set.seed(1)
 
 south <- data.frame(
@@ -49,6 +48,6 @@ dta <- bind_rows(north, south) %>%
   mutate(price = round(price))
 
 
-haven::write_sav(dta, "data/mt_03/dublin_rent_simulated.sav")
+rio::export(dta, "data/mt_03/dublin_rent_simulated.xlsx")
 
 t.test(dta$price ~ dta$area)
