@@ -42,4 +42,6 @@ write.csv(dta, "data/mt_03/dublin_rent_simulated.csv",
             fileEncoding = "utf-8",
           row.names = FALSE)
 
+haven::write_sav(dta, "data/mt_03_dublin_rent_simulated.sav")
+
 t.test(dta$price ~ dta$area)
