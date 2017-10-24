@@ -27,6 +27,17 @@ north <- data.frame(
 dta <- bind_rows(north, south) %>% 
   mutate(price = round(price))
 
+# Calculate t-value by hand
+
+dta %>% 
+  group_by(area) %>% 
+  summarise(mean = mean(price),
+            sd = sd(price))
+
+(551.675 - 601.528) / sqrt(103.8666^2/1000) + sqrt(103.1129^2/1000)
+
+t.test(dta$price ~ dta$area)
+
 write.csv(dta, "data/mt_03/dublin_rent_simulated.csv",
             fileEncoding = "utf-8",
           row.names = FALSE)
