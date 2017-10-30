@@ -44,23 +44,17 @@ Below I post a selection of useful links for each tutorial. If you found additio
 ### Tutorial 01
 
 - [Tutorial Slides (MT 01)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_01.pdf)
-
-#### Software
 - [Introduction](https://libguides.library.kent.edu/SPSS/GettingStarted) to the SPSS Environment: 
 - [Panels, symbols, output viewer](https://libguides.library.kent.edu/SPSS/Environment)
 - [Syntax editor](https://www.spss-tutorials.com/spss-syntax-editor-window/)
 - [Importing datasets](https://libguides.library.kent.edu/SPSS/ImportData)
 - [Data organisation in spreadsheets](https://peerj.com/preprints/3183.pdf)
-  
-#### Statistics
 - [Calculate mean and standard deviation by hand](https://www.mathsisfun.com/data/standard-deviation-formulas.html)
 - [Simulate the distribution of sample means](ttp://onlinestatbook.com/stat_sim/sampling_dist/)
 
 ### Tutorial 02
 
 - [Tutorial Slides (MT 02)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_02.pdf)
-
-#### Statistics
 - [Subset data](https://stats.idre.ucla.edu/spss/modules/ubsetting-data/)
 - [Recode variables](https://libguides.library.kent.edu/SPSS/RecodeVariables)
 - [How to name variables and share data](https://doi.org/10.7287/peerj.preprints.3139v3)
@@ -69,9 +63,6 @@ Below I post a selection of useful links for each tutorial. If you found additio
 ### Tutorial 03
 
 - [Tutorial Slides (MT 03)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_03.pdf)
-
-#### Statistics
-
 - [Student's t-test explained](https://www.youtube.com/watch?v=pTmLQvMM-1M)
 - [Calculate t-test by hand](http://www.statisticshowto.com/probability-and-statistics/t-test/)
 - [Calculate t-test in SPSS](https://statistics.laerd.com/spss-tutorials/one-sample-t-test-using-spss-statistics.php)
@@ -79,6 +70,8 @@ Below I post a selection of useful links for each tutorial. If you found additio
 ### Tutorial 04
 
 - [Tutorial Slides (MT 04)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_04.pdf)
+- [Save and export graphs in SPSS](https://www.ibm.com/support/knowledgecenter/en/SS3RA7_15.0.0/com.ibm.spss.modeler.help/graphs_filemenu_options.htm)
+- [Add regression line to plot in SPSS](http://www.unige.ch/ses/sococ/cl/spss/eda/smoothing1.html)
 
 ### Research Projects
 
