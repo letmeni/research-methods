@@ -58,6 +58,8 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 ### Tutorial 02
 
+- [Tutorial Slides (MT 02)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_02.pdf)
+
 #### Statistics
 - [Subset data](https://stats.idre.ucla.edu/spss/modules/ubsetting-data/)
 - [Recode variables](https://libguides.library.kent.edu/SPSS/RecodeVariables)
@@ -66,11 +68,17 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 ### Tutorial 03
 
+- [Tutorial Slides (MT 03)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_03.pdf)
+
 #### Statistics
 
 - [Student's t-test explained](https://www.youtube.com/watch?v=pTmLQvMM-1M)
 - [Calculate t-test by hand](http://www.statisticshowto.com/probability-and-statistics/t-test/)
 - [Calculate t-test in SPSS](https://statistics.laerd.com/spss-tutorials/one-sample-t-test-using-spss-statistics.php)
+
+### Tutorial 04
+
+- [Tutorial Slides (MT 04)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_04.pdf)
 
 ### Research Projects
 
