@@ -72,6 +72,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Tutorial Slides (MT 04)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_04.pdf)
 - [Save and export graphs in SPSS](https://www.ibm.com/support/knowledgecenter/en/SS3RA7_15.0.0/com.ibm.spss.modeler.help/graphs_filemenu_options.htm)
 - [Add regression line to plot in SPSS](http://www.unige.ch/ses/sococ/cl/spss/eda/smoothing1.html)
+- [Ways to estimate reliability](https://measuringu.com/measure-reliability/)
 
 ### Research Projects
 
