@@ -51,6 +51,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Data organisation in spreadsheets](https://peerj.com/preprints/3183.pdf)
 - [Calculate mean and standard deviation by hand](https://www.mathsisfun.com/data/standard-deviation-formulas.html)
 - [Simulate the distribution of sample means](ttp://onlinestatbook.com/stat_sim/sampling_dist/)
+- [Difference between standard deviation and standard error](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3148365/pdf/11999_2011_Article_1908.pdf)
 
 ### Tutorial 02
 
@@ -74,6 +75,13 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Add regression line to plot in SPSS](http://www.unige.ch/ses/sococ/cl/spss/eda/smoothing1.html)
 - [Ways to estimate reliability](https://measuringu.com/measure-reliability/)
 - [Examples of reliability and validity](https://chfasoa.uni.edu/reliabilityandvalidity.htm)
+
+
+### Tutorial 05
+
+- [Tutorial Slides (MT 05)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_05.pdf)
+- [Cross-tabs in SPSS](https://libguides.library.kent.edu/SPSS/Crosstabs)
+- [How (not) to interpret confidence intervals](https://www.mathbootcamps.com/interpreting-confidence-intervals/)
 
 ### Research Projects
 
