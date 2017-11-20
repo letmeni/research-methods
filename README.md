@@ -83,6 +83,12 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Cross-tabs in SPSS](https://libguides.library.kent.edu/SPSS/Crosstabs)
 - [How (not) to interpret confidence intervals](https://www.mathbootcamps.com/interpreting-confidence-intervals/)
 
+### Tutorial 06
+
+- [Tutorial Slides (MT 05)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_06.pdf)
+- [Merge datasets in SPSS](http://www.d.umn.edu/~mcoleman/tutorials/spss/merge.html)
+
+
 ### Research Projects
 
 - [Collection of political datasets](https://github.com/erikgahner/PolData)
