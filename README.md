@@ -87,7 +87,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 - [Tutorial Slides (MT 05)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_06.pdf)
 - [Merge datasets in SPSS](http://www.d.umn.edu/~mcoleman/tutorials/spss/merge.html)
-
+- [Understanding and interpret boxplots](https://www.wellbeingatschool.org.nz/information-sheet/understanding-and-interpreting-box-plots)
 
 ### Research Projects
 
