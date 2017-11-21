@@ -34,6 +34,7 @@ Some general rules:
 3. Add the contents of the SPSS Syntax file/R script/Stata do file at the end of your document. It is good academic practice to present the full code and replication script. While SPSS has a point-and-klick interface, not relying on scripts results in extra work if you need to repeat an analysis. Even more important, only with scripts you can ensure reproducibility of your results. On the topic of reproducibility, have a look at the following links: 
 - [AJPS guidelines for preparing replication files](https://ajpsblogging.files.wordpress.com/2016/05/ajps-replic-guidelines-ver-2-1.pdf)
 - [Reproducible research using the SPSS syntax option](https://libguides.library.kent.edu/SPSS/Syntax)
+- [SPSS online video tutorials](http://www.lse.ac.uk/Methodology/Software-tutorials/SPSS-tutorials)
 
 To reiterate, please copy the contents from the SPSS syntax file at the end of the submitted document.
 
