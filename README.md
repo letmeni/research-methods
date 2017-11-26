@@ -86,9 +86,12 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 ### Tutorial 06
 
-- [Tutorial Slides (MT 05)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_06.pdf)
+- [Tutorial Slides (MT 06)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_06.pdf)
 - [Merge datasets in SPSS](http://www.d.umn.edu/~mcoleman/tutorials/spss/merge.html)
 - [Understanding and interpret boxplots](https://www.wellbeingatschool.org.nz/information-sheet/understanding-and-interpreting-box-plots)
+- [Interpret results from cross-tables](https://stats.idre.ucla.edu/spss/faq/how-do-i-interpret-the-results-from-crosstabs/)
+- [Calculate Gamma (by hand)](http://www.statisticshowto.com/gamma-coefficient-goodman-kruskal/)
+- [Cheat sheet for plotting different types of variables](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
 
 ### Research Projects
 
