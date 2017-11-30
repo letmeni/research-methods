@@ -93,6 +93,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 ### Tutorial 07
 
+- [Tutorial Slides (MT 06)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_07.pdf)
 - [Interpret results from cross-tables](https://stats.idre.ucla.edu/spss/faq/how-do-i-interpret-the-results-from-crosstabs/)
 - [Lambda and Gamma](https://www.thoughtco.com/lambda-and-gamma-3026702
 )
