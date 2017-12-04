@@ -2,6 +2,8 @@
 
 Welcome! This site contains useful material for the tutorials of the module [Research Methods for Political Science](https://www.tcd.ie/Political_Science/undergraduate/module-outlines/js/research-methods/). In particular, I will use this site to publish links to useful papers, tutorials, or general advice. If you have any questions feel free to get in [contact](http://muellerstefan.net/#contact) with me. You find the slides of the lectures, homeworks and datasets on [Blackboard](http://tcd.ie/blackboard). This webpage only supplements the information from Blackboard by offering additional material.
 
+**Questions about the lectures or tutorials? Please ask them [here](https://goo.gl/forms/I96akNmMQGSsHUSc2).**
+
 ### Get and install SPSS
 
 This course is based on SPSS. You are free to use alternative (and free) statistical software such as [R](https://www.r-project.org) or [JASP](https://jasp-stats.org). As a TCD student, you get a free SPSS license from the [IT Service](https://www.tcd.ie/itservices/help/it-service-desk-contact.php). What you need to do: Either you go to the IT Service Desk, get an installation DVD and fill out a form, or you print the [form](https://www.tcd.ie/itservices/assets/doc/purchase_local/SPSS-Form.pdf), bring it to the IT Service Desk and download SPSS directly from the [TCD download website](https://software.tcd.ie). Note that you will need to be logged in to the TCD wifi to download the software. Once you got the files, follow the instructions provided in the PDF file. 
@@ -98,6 +100,13 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Lambda and Gamma](https://www.thoughtco.com/lambda-and-gamma-3026702
 )
 - [Calculate Gamma (by hand)](http://www.statisticshowto.com/gamma-coefficient-goodman-kruskal/)
+
+
+### Tutorial 07
+
+- [Tutorial Slides (MT 08)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_08.pdf)
+- [Calculate correlation coefficient by hand](https://www.wikihow.com/Find-the-Correlation-Coefficient)
+- [Same stats, different graphs](https://www.autodeskresearch.com/publications/samestats)
 
 ### Research Projects
 
