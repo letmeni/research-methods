@@ -19,7 +19,8 @@ ggplot(df, aes(x = obs, y = mean)) +
   geom_bar(stat = "identity", fill = "darkgreen", width = 0.7) +
   labs(x = NULL, y = "(Expected) vote share") +
   scale_y_continuous(limits = c(0, 0.4)) +
-  theme_bw()
+  theme_bw() +
+  theme(axis.text=element_text(colour="black"))
 ggsave("/Users/stefan/GitHub/research-methods/plots/mt_08_ff_01.pdf", width = 4, height = 3)
 
 
@@ -28,7 +29,8 @@ ggplot(df, aes(x = obs, y = mean)) +
   geom_errorbar(aes(ymin = ci_low, ymax = ci_high), width = 0.5, size = 1.5) +
   labs(x = NULL, y = "(Expected) vote share") +
   scale_y_continuous(limits = c(0, 0.4)) +
-  theme_bw()
+  theme_bw() +
+  theme(axis.text=element_text(colour="black"))
 ggsave("/Users/stefan/GitHub/research-methods/plots/mt_08_ff_02.pdf", width = 4, height = 3)
 
 
@@ -52,7 +54,8 @@ ggplot(df2, aes(x = obs, y = mean)) +
   geom_errorbar(aes(ymin = ci_low, ymax = ci_high), width = 0.5, size = 1.5) +
   labs(x = NULL, y = "(Expected) vote share") +
   scale_y_continuous(limits = c(0, 0.4)) +
-  theme_bw()
+  theme_bw() +
+  theme(axis.text=element_text(colour="black"))
 ggsave("/Users/stefan/GitHub/research-methods/plots/mt_08_ff_03.pdf", width = 4, height = 3)
 
 
@@ -78,7 +81,8 @@ ggplot(df2, aes(x = obs, y = mean)) +
   geom_errorbar(aes(ymin = ci_low, ymax = ci_high), width = 0.5, size = 1.5) +
   labs(x = NULL, y = "(Expected) vote share") +
   scale_y_continuous(limits = c(0, 0.4)) +
-  theme_bw()
+  theme_bw() +
+  theme(axis.text=element_text(colour="black"))
 ggsave("/Users/stefan/GitHub/research-methods/plots/mt_08_ff_04.pdf", width = 4, height = 3)
 
 
