@@ -114,7 +114,10 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 ### Tutorial 09
 
+- [Tutorial Slides (MT 09)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_09.pdf)
 - [Chi-Square statistic: How to calculate it](http://www.statisticshowto.com/probability-and-statistics/chi-square/)
+- [The Irish Polling Indicator](www.pollingindicator.com/)
+
 
 ### Research Projects
 
