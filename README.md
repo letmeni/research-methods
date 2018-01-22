@@ -44,7 +44,17 @@ To reiterate, please copy the contents from the SPSS syntax file at the end of t
 
 Below I post a selection of useful links for each tutorial. If you found additional material that might be useful, either open a [pull request on GitHub](https://help.github.com/articles/about-pull-requests/) or let me know via email.
 
-### Tutorial 01
+
+### Tutorial 01, Hilary Term
+
+- [One sample t-test](https://www.statsdirect.com/help/parametric_methods/single_sample_t.htm)
+- [Two sample independent t-test](http://www.sthda.com/english/wiki/t-test-formula)
+- [Manifesto Research Project](https://manifesto-project.wzb.eu)
+- [Crowd-sourced text analysis](http://eprints.lse.ac.uk/62242/1/Crowd_sourced1.pdf)
+- [Tool for quantitative text analysis](https://tada-gui.shinyapps.io/tada/) (comments welcome!)
+
+
+### Tutorial 01, Michaelmas Term
 
 - [Tutorial Slides (MT 01)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_01.pdf)
 - [Introduction](https://libguides.library.kent.edu/SPSS/GettingStarted) to the SPSS Environment: 
@@ -56,7 +66,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Simulate the distribution of sample means](ttp://onlinestatbook.com/stat_sim/sampling_dist/)
 - [Difference between standard deviation and standard error](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3148365/pdf/11999_2011_Article_1908.pdf)
 
-### Tutorial 02
+### Tutorial 02, Michaelmas Term
 
 - [Tutorial Slides (MT 02)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_02.pdf)
 - [Subset data](https://stats.idre.ucla.edu/spss/modules/ubsetting-data/)
@@ -64,14 +74,14 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [How to name variables and share data](https://doi.org/10.7287/peerj.preprints.3139v3)
 - [Change decimals for numeric variables](http://www.theanalysisfactor.com/variable-formats-in-spss-syntax/)
 
-### Tutorial 03
+### Tutorial 03, Michaelmas Term
 
 - [Tutorial Slides (MT 03)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_03.pdf)
 - [Student's t-test explained](https://www.youtube.com/watch?v=pTmLQvMM-1M)
 - [Calculate t-test by hand](http://www.statisticshowto.com/probability-and-statistics/t-test/)
 - [Calculate t-test in SPSS](https://statistics.laerd.com/spss-tutorials/one-sample-t-test-using-spss-statistics.php)
 
-### Tutorial 04
+### Tutorial 04, Michaelmas Term
 
 - [Tutorial Slides (MT 04)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_04.pdf)
 - [Save and export graphs in SPSS](https://www.ibm.com/support/knowledgecenter/en/SS3RA7_15.0.0/com.ibm.spss.modeler.help/graphs_filemenu_options.htm)
@@ -80,20 +90,20 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Examples of reliability and validity](https://chfasoa.uni.edu/reliabilityandvalidity.htm)
 
 
-### Tutorial 05
+### Tutorial 05, Michaelmas Term
 
 - [Tutorial Slides (MT 05)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_05.pdf)
 - [Cross-tabs in SPSS](https://libguides.library.kent.edu/SPSS/Crosstabs)
 - [How (not) to interpret confidence intervals](https://www.mathbootcamps.com/interpreting-confidence-intervals/)
 
-### Tutorial 06
+### Tutorial 06, Michaelmas Term
 
 - [Tutorial Slides (MT 06)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_06.pdf)
 - [Merge datasets in SPSS](http://www.d.umn.edu/~mcoleman/tutorials/spss/merge.html)
 - [Understanding and interpret boxplots](https://www.wellbeingatschool.org.nz/information-sheet/understanding-and-interpreting-box-plots)
 - [Cheat sheet for plotting different types of variables](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
 
-### Tutorial 07
+### Tutorial 07, Michaelmas Term
 
 - [Tutorial Slides (MT 07)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_07.pdf)
 - [Interpret results from cross-tables](https://stats.idre.ucla.edu/spss/faq/how-do-i-interpret-the-results-from-crosstabs/)
@@ -102,7 +112,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Calculate Gamma (by hand)](http://www.statisticshowto.com/gamma-coefficient-goodman-kruskal/)
 
 
-### Tutorial 08
+### Tutorial 08, Michaelmas Term
 
 - [Tutorial Slides (MT 08)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_08.pdf)
 - [Calculate correlation coefficient by hand](https://www.wikihow.com/Find-the-Correlation-Coefficient)
@@ -112,20 +122,11 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Tutorial: Choosing the correct statistical test](http://wise.cgu.edu/wise-tutorials/tutorial-choosing-the-correct-statistical-test/)
 
 
-### Tutorial 09
+### Tutorial 09, Michaelmas Term
 
 - [Tutorial Slides (MT 09)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_09.pdf)
 - [Chi-Square statistic: How to calculate it](http://www.statisticshowto.com/probability-and-statistics/chi-square/)
 - [The Irish Polling Indicator](www.pollingindicator.com/)
-
-
-### Tutorial 01, Hilary Term
-
-- [One sample t-test](https://www.statsdirect.com/help/parametric_methods/single_sample_t.htm)
-- [Two sample independent t-test](http://www.sthda.com/english/wiki/t-test-formula)
-- [Manifesto Research Project](https://manifesto-project.wzb.eu)
-- [Crowd-sourced text analysis](http://eprints.lse.ac.uk/62242/1/Crowd_sourced1.pdf)
-- [Tool for quantitative text analysis](https://tada-gui.shinyapps.io/tada/) (comments welcome!)
 
 
 ### Research Projects
