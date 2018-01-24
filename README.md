@@ -52,7 +52,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Manifesto Research Project](https://manifesto-project.wzb.eu)
 - [Crowd-sourced text analysis](http://eprints.lse.ac.uk/62242/1/Crowd_sourced1.pdf)
 - [Tool for quantitative text analysis](https://tada-gui.shinyapps.io/tada/) (comments welcome!)
-
+- [Overview of t-tests](http://blog.minitab.com/blog/adventures-in-statistics-2/understanding-t-tests%3A-1-sample%2C-2-sample%2C-and-paired-t-tests)
 
 ### Tutorial 01, Michaelmas Term
 
