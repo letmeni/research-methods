@@ -47,13 +47,18 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 ### Tutorial 01, Hilary Term
 
-- [Tutorial Slides (MT 01)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_01.pdf)
+- [Tutorial Slides (HT 01)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_01.pdf)
 - [Overview of t-tests](http://blog.minitab.com/blog/adventures-in-statistics-2/understanding-t-tests%3A-1-sample%2C-2-sample%2C-and-paired-t-tests)
 - [One sample t-test](https://www.statsdirect.com/help/parametric_methods/single_sample_t.htm)
 - [Two sample independent t-test](http://www.sthda.com/english/wiki/t-test-formula)
 - [Manifesto Research Project](https://manifesto-project.wzb.eu)
 - [Crowd-sourced text analysis](http://eprints.lse.ac.uk/62242/1/Crowd_sourced1.pdf)
 - [Tool for quantitative text analysis](https://tada-gui.shinyapps.io/tada/) (comments welcome!)
+
+### Tutorial 02, Hilary Term
+
+- [Tutorial Slides (HT 02)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_02.pdf)
+- [Simulate the coverage of confidence intervals](https://istats.shinyapps.io/ExploreCoverage/)
 
 
 ### Tutorial 01, Michaelmas Term
