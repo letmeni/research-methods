@@ -60,6 +60,12 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Tutorial Slides (HT 02)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_02.pdf)
 - [Simulate the coverage of confidence intervals](https://istats.shinyapps.io/ExploreCoverage/)
 
+### Tutorial 03, Hilary Term
+
+- [Tutorial Slides (HT 03)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_03.pdf)
+- [Run a linear regression in SPSS and interpret the output](https://statistics.laerd.com/spss-tutorials/linear-regression-using-spss-statistics.php)
+- [Kieran Healy. 2018. Data Visualization: A Practical Introduction](http://socviz.co)
+
 
 ### Tutorial 01, Michaelmas Term
 
