@@ -72,6 +72,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [How To Visualise Your Data (Financial Times)](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary)
 - [Difference between t-test and F-test](https://keydifferences.com/difference-between-t-test-and-f-test.html)
 - [SPSS Annotated Output Regression Analysis](https://stats.idre.ucla.edu/spss/output/regression-analysis/)
+- [Calculating Krippendorff's alpha](http://www.statisticshowto.com/krippendorffs-alpha/)
 
 ### Tutorial 01, Michaelmas Term
 
