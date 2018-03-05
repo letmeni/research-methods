@@ -1,6 +1,7 @@
 # load required packages
 
 library(tidyverse)
+library(haven)
 library(texreg)
 library(lmtest)
 

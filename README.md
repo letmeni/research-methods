@@ -76,12 +76,21 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 ### Tutorial 05, Hilary Term
 
+
+- [Tutorial Slides (HT 05)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_05.pdf)
 - [SPSS Regression Diagnostics](https://stats.idre.ucla.edu/spss/seminars/introduction-to-regression-with-spss/introreg-lesson2/)
 - [Testing Assumptions of Linear Regression in SPSS](http://www.statisticssolutions.com/testing-assumptions-of-linear-regression-in-spss/)
 - [Regression Diagnostics in R](https://www.statmethods.net/stats/rdiagnostics.html)
 - [Reverse Engineering a Regression Table](https://achimkemmerling.files.wordpress.com/2018/01/regressiontable1.pdf)
 - [Understanding Cook's Distance Using SPSS](https://www.youtube.com/watch?v=AJT65PS8MCw)
 - [Influential Observations](http://onlinestatbook.com/2/regression/influential.html)
+
+
+### Tutorial 06, Hilary Term
+
+- [Tutorial Slides (HT 06)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_06.pdf)
+- [Recoding Variables in SPSS](https://statistics.laerd.com/spss-tutorials/recoding-variables-in-spss-statistics.php)
+
 
 ### Tutorial 01, Michaelmas Term
 
