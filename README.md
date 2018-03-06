@@ -90,6 +90,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 - [Tutorial Slides (HT 06)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_06.pdf)
 - [Recoding Variables in SPSS](https://statistics.laerd.com/spss-tutorials/recoding-variables-in-spss-statistics.php)
+- [A Protocol for Data Exploration to Avoid Common Statistical Problems](http://iis4.nateko.lu.se/courses/ngem01_2016/ZuurEtAl_2010_Stistics.pdf)
 
 
 ### Tutorial 01, Michaelmas Term
