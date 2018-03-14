@@ -649,13 +649,25 @@ REGRESSION
   /STATISTICS COEFF OUTS R ANOVA COLLIN TOL
   /CRITERIA=PIN(.05) POUT(.10)
   /NOORIGIN 
+  /DEPENDENT fttrump
+  /METHOD=ENTER ftsci gender equalpay compromise
+  /SCATTERPLOT=(*ZRESID ,*ZPRED)
+  /SAVE COOK
+  /RESIDUALS DURBIN HISTOGRAM(ZRESID).
+
+
+REGRESSION
+  /MISSING LISTWISE
+  /STATISTICS COEFF OUTS R ANOVA COLLIN TOL
+  /CRITERIA=PIN(.05) POUT(.10)
+  /NOORIGIN 
   /DEPENDENT fttrump_recoded
   /METHOD=ENTER ftsci_recoded gender equalpay compromise
   /SCATTERPLOT=(*ZRESID ,*ZPRED)
   /SAVE COOK
   /RESIDUALS DURBIN HISTOGRAM(ZRESID).
 
-COMPUTE genderXcompromise=gender * compromise.
+COMPUTE genderXequalpay=gender * equalpay.
 EXECUTE.
 
 
@@ -665,4 +677,5 @@ REGRESSION
   /CRITERIA=PIN(.05) POUT(.10)
   /NOORIGIN 
   /DEPENDENT fttrump_recoded
-  /METHOD=ENTER ftsci_recoded gender equalpay compromise genderXcompromise.
+  /METHOD=ENTER ftsci_recoded gender equalpay compromise genderXequalpay.
+
