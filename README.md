@@ -93,6 +93,19 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [A Protocol for Data Exploration to Avoid Common Statistical Problems](http://iis4.nateko.lu.se/courses/ngem01_2016/ZuurEtAl_2010_Stistics.pdf)
 
 
+### Tutorial 07, Hilary Term
+
+- [Tutorial Slides (HT 07)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_07.pdf)
+- [Understanding Interaction Effects in Statistics](http://statisticsbyjim.com/regression/interaction-effects/)
+- [Interpreting Interactions in Regression](https://www.theanalysisfactor.com/interpreting-interactions-in-regression/)
+
+
+### Tutorial 08, Hilary Term
+
+- [Tutorial Slides (HT 08)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_08.pdf)
+- [Difference Between Parametric and Nonparametric Tests](https://keydifferences.com/difference-between-parametric-and-nonparametric-test.html)
+- [Interpret Odds Ratio in Logistic Regression](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-how-do-i-interpret-odds-ratios-in-logistic-regression/)
+
 ### Tutorial 01, Michaelmas Term
 
 - [Tutorial Slides (MT 01)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_01.pdf)
