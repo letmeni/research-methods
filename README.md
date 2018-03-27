@@ -106,6 +106,12 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Difference Between Parametric and Nonparametric Tests](https://keydifferences.com/difference-between-parametric-and-nonparametric-test.html)
 - [Interpret Odds Ratio in Logistic Regression](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-how-do-i-interpret-odds-ratios-in-logistic-regression/)
 
+### Tutorial 09, Hilary Term
+
+- [Tutorial Slides (HT 09)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_09.pdf)
+- [Predicted Probabilities (in R, but very comprehensible!)](https://druedin.com/2016/01/16/predicted-probabilities-in-r/)
+- [Calculate predicted probabilities in SPSS](https://www.methodsconsultants.com/tutorial/estimating-logistic-regression-models-in-spss/)
+
 ### Tutorial 01, Michaelmas Term
 
 - [Tutorial Slides (MT 01)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_01.pdf)
