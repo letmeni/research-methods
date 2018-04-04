@@ -44,8 +44,9 @@ To reiterate, please copy the contents from the SPSS syntax file at the end of t
 
 Below I post a selection of useful links for each tutorial. If you found additional material that might be useful, either open a [pull request on GitHub](https://help.github.com/articles/about-pull-requests/) or let me know via email.
 
+## Hilary Term
 
-### Tutorial 01, Hilary Term
+### Tutorial 1, Hilary Term
 
 - [Tutorial Slides (HT 01)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_01.pdf)
 - [Overview of t-tests](http://blog.minitab.com/blog/adventures-in-statistics-2/understanding-t-tests%3A-1-sample%2C-2-sample%2C-and-paired-t-tests)
@@ -55,18 +56,18 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Crowd-sourced text analysis](http://eprints.lse.ac.uk/62242/1/Crowd_sourced1.pdf)
 - [Tool for quantitative text analysis](https://tada-gui.shinyapps.io/tada/) (comments welcome!)
 
-### Tutorial 02, Hilary Term
+### Tutorial 2, Hilary Term
 
 - [Tutorial Slides (HT 02)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_02.pdf)
 - [Simulate the coverage of confidence intervals](https://istats.shinyapps.io/ExploreCoverage/)
 
-### Tutorial 03, Hilary Term
+### Tutorial 3, Hilary Term
 
 - [Tutorial Slides (HT 03)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_03.pdf)
 - [Run a linear regression in SPSS and interpret the output](https://statistics.laerd.com/spss-tutorials/linear-regression-using-spss-statistics.php)
 - [Kieran Healy. 2018. Data Visualization: A Practical Introduction](http://socviz.co)
 
-### Tutorial 04, Hilary Term
+### Tutorial 4, Hilary Term
 
 - [Tutorial Slides (HT 04)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_04.pdf)
 - [How To Visualise Your Data (Financial Times)](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary)
@@ -74,7 +75,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [SPSS Annotated Output Regression Analysis](https://stats.idre.ucla.edu/spss/output/regression-analysis/)
 - [Calculating Krippendorff's alpha](http://www.statisticshowto.com/krippendorffs-alpha/)
 
-### Tutorial 05, Hilary Term
+### Tutorial 5, Hilary Term
 
 
 - [Tutorial Slides (HT 05)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_05.pdf)
@@ -86,33 +87,35 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Influential Observations](http://onlinestatbook.com/2/regression/influential.html)
 
 
-### Tutorial 06, Hilary Term
+### Tutorial 6, Hilary Term
 
 - [Tutorial Slides (HT 06)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_06.pdf)
 - [Recoding Variables in SPSS](https://statistics.laerd.com/spss-tutorials/recoding-variables-in-spss-statistics.php)
 - [A Protocol for Data Exploration to Avoid Common Statistical Problems](http://iis4.nateko.lu.se/courses/ngem01_2016/ZuurEtAl_2010_Stistics.pdf)
 
 
-### Tutorial 07, Hilary Term
+### Tutorial 7, Hilary Term
 
 - [Tutorial Slides (HT 07)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_07.pdf)
 - [Understanding Interaction Effects in Statistics](http://statisticsbyjim.com/regression/interaction-effects/)
 - [Interpreting Interactions in Regression](https://www.theanalysisfactor.com/interpreting-interactions-in-regression/)
 
 
-### Tutorial 08, Hilary Term
+### Tutorial 8, Hilary Term
 
 - [Tutorial Slides (HT 08)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_08.pdf)
 - [Difference Between Parametric and Nonparametric Tests](https://keydifferences.com/difference-between-parametric-and-nonparametric-test.html)
 - [Interpret Odds Ratio in Logistic Regression](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-how-do-i-interpret-odds-ratios-in-logistic-regression/)
 
-### Tutorial 09, Hilary Term
+### Tutorial 9, Hilary Term
 
 - [Tutorial Slides (HT 09)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_09.pdf)
 - [Predicted Probabilities (in R, but very comprehensible!)](https://druedin.com/2016/01/16/predicted-probabilities-in-r/)
 - [Calculate predicted probabilities in SPSS](https://www.methodsconsultants.com/tutorial/estimating-logistic-regression-models-in-spss/)
 
-### Tutorial 01, Michaelmas Term
+## Michaelmas Term 
+
+### Tutorial 1, Michaelmas Term
 
 - [Tutorial Slides (MT 01)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_01.pdf)
 - [Introduction](https://libguides.library.kent.edu/SPSS/GettingStarted) to the SPSS Environment: 
@@ -124,7 +127,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Simulate the distribution of sample means](ttp://onlinestatbook.com/stat_sim/sampling_dist/)
 - [Difference between standard deviation and standard error](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3148365/pdf/11999_2011_Article_1908.pdf)
 
-### Tutorial 02, Michaelmas Term
+### Tutorial 2, Michaelmas Term
 
 - [Tutorial Slides (MT 02)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_02.pdf)
 - [Subset data](https://stats.idre.ucla.edu/spss/modules/ubsetting-data/)
@@ -132,14 +135,14 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [How to name variables and share data](https://doi.org/10.7287/peerj.preprints.3139v3)
 - [Change decimals for numeric variables](http://www.theanalysisfactor.com/variable-formats-in-spss-syntax/)
 
-### Tutorial 03, Michaelmas Term
+### Tutorial 3, Michaelmas Term
 
 - [Tutorial Slides (MT 03)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_03.pdf)
 - [Student's t-test explained](https://www.youtube.com/watch?v=pTmLQvMM-1M)
 - [Calculate t-test by hand](http://www.statisticshowto.com/probability-and-statistics/t-test/)
 - [Calculate t-test in SPSS](https://statistics.laerd.com/spss-tutorials/one-sample-t-test-using-spss-statistics.php)
 
-### Tutorial 04, Michaelmas Term
+### Tutorial 4, Michaelmas Term
 
 - [Tutorial Slides (MT 04)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_04.pdf)
 - [Save and export graphs in SPSS](https://www.ibm.com/support/knowledgecenter/en/SS3RA7_15.0.0/com.ibm.spss.modeler.help/graphs_filemenu_options.htm)
@@ -148,20 +151,20 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Examples of reliability and validity](https://chfasoa.uni.edu/reliabilityandvalidity.htm)
 
 
-### Tutorial 05, Michaelmas Term
+### Tutorial 5, Michaelmas Term
 
 - [Tutorial Slides (MT 05)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_05.pdf)
 - [Cross-tabs in SPSS](https://libguides.library.kent.edu/SPSS/Crosstabs)
 - [How (not) to interpret confidence intervals](https://www.mathbootcamps.com/interpreting-confidence-intervals/)
 
-### Tutorial 06, Michaelmas Term
+### Tutorial 6, Michaelmas Term
 
 - [Tutorial Slides (MT 06)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_06.pdf)
 - [Merge datasets in SPSS](http://www.d.umn.edu/~mcoleman/tutorials/spss/merge.html)
 - [Understanding and interpret boxplots](https://www.wellbeingatschool.org.nz/information-sheet/understanding-and-interpreting-box-plots)
 - [Cheat sheet for plotting different types of variables](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
 
-### Tutorial 07, Michaelmas Term
+### Tutorial 7, Michaelmas Term
 
 - [Tutorial Slides (MT 07)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_07.pdf)
 - [Interpret results from cross-tables](https://stats.idre.ucla.edu/spss/faq/how-do-i-interpret-the-results-from-crosstabs/)
@@ -170,7 +173,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Calculate Gamma (by hand)](http://www.statisticshowto.com/gamma-coefficient-goodman-kruskal/)
 
 
-### Tutorial 08, Michaelmas Term
+### Tutorial 8, Michaelmas Term
 
 - [Tutorial Slides (MT 08)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_08.pdf)
 - [Calculate correlation coefficient by hand](https://www.wikihow.com/Find-the-Correlation-Coefficient)
@@ -180,7 +183,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Tutorial: Choosing the correct statistical test](http://wise.cgu.edu/wise-tutorials/tutorial-choosing-the-correct-statistical-test/)
 
 
-### Tutorial 09, Michaelmas Term
+### Tutorial 9, Michaelmas Term
 
 - [Tutorial Slides (MT 09)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_09.pdf)
 - [Chi-Square statistic: How to calculate it](http://www.statisticshowto.com/probability-and-statistics/chi-square/)
