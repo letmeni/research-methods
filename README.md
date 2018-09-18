@@ -1,14 +1,36 @@
-## Tutorial: Research Methods in Political Science (PO3600)
+# Research Methods for Political Science (2018-2019)
 
-Welcome! This site contains useful material for the tutorials of the module [Research Methods for Political Science](https://www.tcd.ie/Political_Science/undergraduate/module-outlines/js/research-methods/). In particular, I will use this site to publish links to useful papers, tutorials, or general advice. If you have any questions feel free to get in [contact](http://muellerstefan.net/#contact) with me. You find the slides of the lectures, homeworks and datasets on [Blackboard](http://tcd.ie/blackboard). This webpage only supplements the information from Blackboard by offering additional material.
+Welcome! This website is meant to provide students with additional and useful material for PO3110 and PO3111, [Research Methods for Political Science A](https://www.tcd.ie/Political_Science/undergraduate/module-outlines/js/research-methods-a/) and [B](https://www.tcd.ie/Political_Science/undergraduate/module-outlines/js/research-methods-b/).
 
-**Questions about the lectures or tutorials? Please ask them [here](https://goo.gl/forms/I96akNmMQGSsHUSc2).**
+This space will be used to publish tutorials' slides and extra-material such as useful papers or web-pages. You find the slides of the lectures, homeworks and datasets on [Blackboard](http://tcd.ie/blackboard). This webpage only supplements the information from Blackboard by offering additional material.
+
+Should you have further queries, please do [get in touch with me](http://andrsalvi.github.io/contact)!
+
+### Calendar
+
+I prepared this Google Calendar with all the main deadlines and dates for the course. Feel free to add it to your Calendars.
+
+<iframe src="https://calendar.google.com/calendar/embed?src=mfgg7rirvsktd2jjv9jqie43cc%40group.calendar.google.com&ctz=Europe%2FDublin" style="border: 0" width="700" height="800" frameborder="0" scrolling="no"></iframe>
+
+### Communication and Office Hours
+For questions about the lectures or tutorials you can either send me an email or join the Slack channel I have set up for the course. Slack is a workspace hub with amazing chat features that allow for a quick and efficient communication. The idea behind this is to create a virtual space where you can ask questions that me and your colleague will be able to see as well (use emails for private communication!). For a fancier description on slack click [HERE](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-).
+How to join? Just click [HERE and use to TCD email to log in](https://join.slack.com/t/researchmethodstcd/shared_invite/enQtNDM2ODc0NzIxMjIwLTE4YzY4YzAxMDc3ODk4MjRiYzc3MjA0NDQyNWQ2MmNlNGY0Y2VkNzg5MjQwMzlkMzA0ZmY1MTc4ZTVlN2U3MGM)].
+**Please avoid using nicknames**.
+
+<p align="center"> 
+<img src="/img/slackicon.png" alt="TCD" width="100"/>
+</p>
+
+In general, I scheduled my office hours on Tuesdays from 15 to 16 (*ONLY* upon request). While I am certainly happy to meet students, I would encourage you to bring up doubts, questions or issues of sort during tutorials.
 
 ### Get and install SPSS
 
-This course is based on SPSS. You are free to use alternative (and free) statistical software such as [R](https://www.r-project.org) or [JASP](https://jasp-stats.org). As a TCD student, you get a free SPSS license from the [IT Service](https://www.tcd.ie/itservices/help/it-service-desk-contact.php). What you need to do: Either you go to the IT Service Desk, get an installation DVD and fill out a form, or you print the [form](https://www.tcd.ie/itservices/assets/doc/purchase_local/SPSS-Form.pdf), bring it to the IT Service Desk and download SPSS directly from the [TCD download website](https://software.tcd.ie). Note that you will need to be logged in to the TCD wifi to download the software. Once you got the files, follow the instructions provided in the PDF file. 
+This course is based on SPSS. You are free to use alternative (and free) statistical software such as [R](https://www.r-project.org) or [JASP](https://jasp-stats.org). As a TCD student, you get a free SPSS license from the [IT Service](https://www.tcd.ie/itservices/help/it-service-desk-contact.php). What you need to do: Either you go to the IT Service Desk, get an installation DVD and fill out a form, or you print the [form](https://www.tcd.ie/itservices/assets/doc/purchase_local/SPSS-Form.pdf), bring it to the IT Service Desk and download SPSS directly from the [TCD download website](https://software.tcd.ie). Note that you will need to be logged in to the TCD network (cabled) to download the software. Once you got the files, follow the instructions provided in the PDF file.
+The licence code is on the tcd software website, [HERE](https://www.tcd.ie/itservices/local/spss_licence.php).
+If you scroll down on the licence page there should be an heading for the 2018/19 licence.
 
-### Online Support
+
+### Online Support and Resources
 
 While we will cover a lot of the SPSS functions in the tutorials, for your homework and research project you will very likely need additional functions.
 
@@ -20,7 +42,7 @@ While we will cover a lot of the SPSS functions in the tutorials, for your homew
 #### R
 
 - [UCLA Tutorials for R, Stata and SAS](https://stats.idre.ucla.edu/other/dae/): Very useful tutorials for the most important statistical analyses.
-- [Swirl](http://swirlstats.com): Learn R in R.
+- [Swirl](http://swirlstats.com): Simulates an R workspace allowing you to learn R in R.
 - [Moderndive](http://www.moderndive.com): A great interactive introduction to data visualisation and modelling in R.
 - [Stackoverflow](https://stackoverflow.com/questions/tagged/r): Here you will find almost all answers to specific questions.
 
@@ -28,167 +50,27 @@ While we will cover a lot of the SPSS functions in the tutorials, for your homew
 
 Throughout both Michaelmas and Hilary term you will need to submit homeworks, assignments and a research project. You are free to conduct the homework with SPSS or an alternative statistical software (for example Stata or R, but _not_ Excel).
 
-Some general rules: 
-1. The assignments must be typed into a LaTeX or Word/Open Office document and submitted as a PDF via Turnitin. Screenshots of the SPSS output are _not_ sufficient as you will need to describe and interpret the results and procedures.
+Some general rules:
+1. The assignments must be typed into a LaTeX or Word/Open Office document and submitted as a PDF via Turnitin (see the Syllabus for more details). Screenshots of the SPSS output are _not_ sufficient as you will need to describe and interpret the results and procedures.
 
-2. If you include tables, do not use a screenshot, but use the "export" function from SPSS. Please save figures appropriately in [high resolution](https://thepoliticalmethodologist.com/2013/11/25/making-high-resolution-graphics-for-academic-publishing/) (I recommend PDF as vector graphic formats have the best possible quality).
+2. If you include tables, do not use a screenshot, but use the **"export"** function from SPSS. Please save figures appropriately in [high resolution](https://thepoliticalmethodologist.com/2013/11/25/making-high-resolution-graphics-for-academic-publishing/) (We recommend PDF as vector graphic formats have the best possible quality).
 
-3. Add the contents of the SPSS Syntax file/R script/Stata do file at the end of your document. It is good academic practice to present the full code and replication script. While SPSS has a point-and-klick interface, not relying on scripts results in extra work if you need to repeat an analysis. Even more important, only with scripts you can ensure reproducibility of your results. On the topic of reproducibility, have a look at the following links: 
+3. Add the contents of the SPSS Syntax file/R script/Stata do file at the end of your document. It is good academic practice to present the full code and replication script. While SPSS has a point-and-klick interface, not relying on scripts results in extra work if you need to repeat an analysis. Even more important, only with scripts you can ensure reproducibility of your results. On the topic of reproducibility, have a look at the following links:
 - [AJPS guidelines for preparing replication files](https://ajpsblogging.files.wordpress.com/2016/05/ajps-replic-guidelines-ver-2-1.pdf)
 - [Reproducible research using the SPSS syntax option](https://libguides.library.kent.edu/SPSS/Syntax)
 - [SPSS online video tutorials](http://www.lse.ac.uk/Methodology/Software-tutorials/SPSS-tutorials)
 
-To reiterate, please copy the contents from the SPSS syntax file at the end of the submitted document.
+To reiterate, **please copy the contents from the SPSS syntax file at the end of the submitted document**.
 
 ## Useful links for each tutorial
 
-Below I post a selection of useful links for each tutorial. If you found additional material that might be useful, either open a [pull request on GitHub](https://help.github.com/articles/about-pull-requests/) or let me know via email.
+Below I post a selection of useful links for each tutorial. If you found additional material that might be useful, either open a [pull request on GitHub](https://help.github.com/articles/about-pull-requests/) or let me know via email/slack.
 
-## Hilary Term
-
-### Tutorial 1, Hilary Term
-
-- [Tutorial Slides (HT 01)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_01.pdf)
-- [Overview of t-tests](http://blog.minitab.com/blog/adventures-in-statistics-2/understanding-t-tests%3A-1-sample%2C-2-sample%2C-and-paired-t-tests)
-- [One sample t-test](https://www.statsdirect.com/help/parametric_methods/single_sample_t.htm)
-- [Two sample independent t-test](http://www.sthda.com/english/wiki/t-test-formula)
-- [Manifesto Research Project](https://manifesto-project.wzb.eu)
-- [Crowd-sourced text analysis](http://eprints.lse.ac.uk/62242/1/Crowd_sourced1.pdf)
-- [Tool for quantitative text analysis](https://tada-gui.shinyapps.io/tada/) (comments welcome!)
-
-### Tutorial 2, Hilary Term
-
-- [Tutorial Slides (HT 02)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_02.pdf)
-- [Simulate the coverage of confidence intervals](https://istats.shinyapps.io/ExploreCoverage/)
-
-### Tutorial 3, Hilary Term
-
-- [Tutorial Slides (HT 03)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_03.pdf)
-- [Run a linear regression in SPSS and interpret the output](https://statistics.laerd.com/spss-tutorials/linear-regression-using-spss-statistics.php)
-- [Kieran Healy. 2018. Data Visualization: A Practical Introduction](http://socviz.co)
-
-### Tutorial 4, Hilary Term
-
-- [Tutorial Slides (HT 04)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_04.pdf)
-- [How To Visualise Your Data (Financial Times)](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary)
-- [Difference between t-test and F-test](https://keydifferences.com/difference-between-t-test-and-f-test.html)
-- [SPSS Annotated Output Regression Analysis](https://stats.idre.ucla.edu/spss/output/regression-analysis/)
-- [Calculating Krippendorff's alpha](http://www.statisticshowto.com/krippendorffs-alpha/)
-
-### Tutorial 5, Hilary Term
-
-
-- [Tutorial Slides (HT 05)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_05.pdf)
-- [SPSS Regression Diagnostics](https://stats.idre.ucla.edu/spss/seminars/introduction-to-regression-with-spss/introreg-lesson2/)
-- [Testing Assumptions of Linear Regression in SPSS](http://www.statisticssolutions.com/testing-assumptions-of-linear-regression-in-spss/)
-- [Regression Diagnostics in R](https://www.statmethods.net/stats/rdiagnostics.html)
-- [Reverse Engineering a Regression Table](https://achimkemmerling.files.wordpress.com/2018/01/regressiontable1.pdf)
-- [Understanding Cook's Distance Using SPSS](https://www.youtube.com/watch?v=AJT65PS8MCw)
-- [Influential Observations](http://onlinestatbook.com/2/regression/influential.html)
-
-
-### Tutorial 6, Hilary Term
-
-- [Tutorial Slides (HT 06)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_06.pdf)
-- [Recoding Variables in SPSS](https://statistics.laerd.com/spss-tutorials/recoding-variables-in-spss-statistics.php)
-- [A Protocol for Data Exploration to Avoid Common Statistical Problems](http://iis4.nateko.lu.se/courses/ngem01_2016/ZuurEtAl_2010_Stistics.pdf)
-
-
-### Tutorial 7, Hilary Term
-
-- [Tutorial Slides (HT 07)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_07.pdf)
-- [Understanding Interaction Effects in Statistics](http://statisticsbyjim.com/regression/interaction-effects/)
-- [Interpreting Interactions in Regression](https://www.theanalysisfactor.com/interpreting-interactions-in-regression/)
-
-
-### Tutorial 8, Hilary Term
-
-- [Tutorial Slides (HT 08)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_08.pdf)
-- [Difference Between Parametric and Nonparametric Tests](https://keydifferences.com/difference-between-parametric-and-nonparametric-test.html)
-- [Interpret Odds Ratio in Logistic Regression](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-how-do-i-interpret-odds-ratios-in-logistic-regression/)
-
-### Tutorial 9, Hilary Term
-
-- [Tutorial Slides (HT 09)](https://github.com/stefan-mueller/po3600/blob/master/slides/ht_tut_09.pdf)
-- [Predicted Probabilities (in R, but very comprehensible!)](https://druedin.com/2016/01/16/predicted-probabilities-in-r/)
-- [Calculate predicted probabilities in SPSS](https://www.methodsconsultants.com/tutorial/estimating-logistic-regression-models-in-spss/)
-
-## Michaelmas Term 
+## Michaelmas Term
 
 ### Tutorial 1, Michaelmas Term
 
-- [Tutorial Slides (MT 01)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_01.pdf)
-- [Introduction](https://libguides.library.kent.edu/SPSS/GettingStarted) to the SPSS Environment: 
-- [Panels, symbols, output viewer](https://libguides.library.kent.edu/SPSS/Environment)
-- [Syntax editor](https://www.spss-tutorials.com/spss-syntax-editor-window/)
-- [Importing datasets](https://libguides.library.kent.edu/SPSS/ImportData)
-- [Data organisation in spreadsheets](https://peerj.com/preprints/3183.pdf)
-- [Calculate mean and standard deviation by hand](https://www.mathsisfun.com/data/standard-deviation-formulas.html)
-- [Simulate the distribution of sample means](ttp://onlinestatbook.com/stat_sim/sampling_dist/)
-- [Difference between standard deviation and standard error](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3148365/pdf/11999_2011_Article_1908.pdf)
-
-### Tutorial 2, Michaelmas Term
-
-- [Tutorial Slides (MT 02)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_02.pdf)
-- [Subset data](https://stats.idre.ucla.edu/spss/modules/ubsetting-data/)
-- [Recode variables](https://libguides.library.kent.edu/SPSS/RecodeVariables)
-- [How to name variables and share data](https://doi.org/10.7287/peerj.preprints.3139v3)
-- [Change decimals for numeric variables](http://www.theanalysisfactor.com/variable-formats-in-spss-syntax/)
-
-### Tutorial 3, Michaelmas Term
-
-- [Tutorial Slides (MT 03)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_03.pdf)
-- [Student's t-test explained](https://www.youtube.com/watch?v=pTmLQvMM-1M)
-- [Calculate t-test by hand](http://www.statisticshowto.com/probability-and-statistics/t-test/)
-- [Calculate t-test in SPSS](https://statistics.laerd.com/spss-tutorials/one-sample-t-test-using-spss-statistics.php)
-
-### Tutorial 4, Michaelmas Term
-
-- [Tutorial Slides (MT 04)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_04.pdf)
-- [Save and export graphs in SPSS](https://www.ibm.com/support/knowledgecenter/en/SS3RA7_15.0.0/com.ibm.spss.modeler.help/graphs_filemenu_options.htm)
-- [Add regression line to plot in SPSS](http://www.unige.ch/ses/sococ/cl/spss/eda/smoothing1.html)
-- [Ways to estimate reliability](https://measuringu.com/measure-reliability/)
-- [Examples of reliability and validity](https://chfasoa.uni.edu/reliabilityandvalidity.htm)
-
-
-### Tutorial 5, Michaelmas Term
-
-- [Tutorial Slides (MT 05)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_05.pdf)
-- [Cross-tabs in SPSS](https://libguides.library.kent.edu/SPSS/Crosstabs)
-- [How (not) to interpret confidence intervals](https://www.mathbootcamps.com/interpreting-confidence-intervals/)
-
-### Tutorial 6, Michaelmas Term
-
-- [Tutorial Slides (MT 06)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_06.pdf)
-- [Merge datasets in SPSS](http://www.d.umn.edu/~mcoleman/tutorials/spss/merge.html)
-- [Understanding and interpret boxplots](https://www.wellbeingatschool.org.nz/information-sheet/understanding-and-interpreting-box-plots)
-- [Cheat sheet for plotting different types of variables](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
-
-### Tutorial 7, Michaelmas Term
-
-- [Tutorial Slides (MT 07)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_07.pdf)
-- [Interpret results from cross-tables](https://stats.idre.ucla.edu/spss/faq/how-do-i-interpret-the-results-from-crosstabs/)
-- [Lambda and Gamma](https://www.thoughtco.com/lambda-and-gamma-3026702
-)
-- [Calculate Gamma (by hand)](http://www.statisticshowto.com/gamma-coefficient-goodman-kruskal/)
-
-
-### Tutorial 8, Michaelmas Term
-
-- [Tutorial Slides (MT 08)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_08.pdf)
-- [Calculate correlation coefficient by hand](https://www.wikihow.com/Find-the-Correlation-Coefficient)
-- [Same stats, different graphs](https://www.autodeskresearch.com/publications/samestats)
-- [Choosing the right statistical test](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/)
-- [Choosing a statistical test](http://www.biostathandbook.com/testchoice.html)
-- [Tutorial: Choosing the correct statistical test](http://wise.cgu.edu/wise-tutorials/tutorial-choosing-the-correct-statistical-test/)
-
-
-### Tutorial 9, Michaelmas Term
-
-- [Tutorial Slides (MT 09)](https://github.com/stefan-mueller/po3600/blob/master/slides/mt_tut_09.pdf)
-- [Chi-Square statistic: How to calculate it](http://www.statisticshowto.com/probability-and-statistics/chi-square/)
-- [The Irish Polling Indicator](www.pollingindicator.com/)
-
+Coming soon!
 
 ### Research Projects
 
