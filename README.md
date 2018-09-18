@@ -13,15 +13,16 @@ I prepared this Google Calendar with all the main deadlines and dates for the co
 <iframe src="https://calendar.google.com/calendar/embed?src=mfgg7rirvsktd2jjv9jqie43cc%40group.calendar.google.com&ctz=Europe%2FDublin" style="border: 0" width="600" height="550" frameborder="0" scrolling="no"></iframe>
 
 ### Communication and Office Hours
-For questions about the lectures or tutorials you can either send me an email or join the Slack channel I have set up for the course. Slack is a workspace hub with amazing chat features that allow for a quick and efficient communication. The idea behind this is to create a virtual space where you can ask questions that me and your colleague will be able to see as well (use emails for private communication!). For a fancier description on slack click [HERE](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-).
+For questions about the lectures or tutorials you *can either send me an email or join the Slack channel* I have set up for the course. Slack is a workspace hub with amazing chat features that allow for a quick and efficient communication. The idea behind this is to create a virtual space where you can ask questions that me and your colleague will be able to see as well (use emails for private communication!). For a fancier description on slack click [HERE](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-).
+
 How to join? Just click [HERE and use to TCD email to log in](https://join.slack.com/t/researchmethodstcd/shared_invite/enQtNDM2ODc0NzIxMjIwLTE4YzY4YzAxMDc3ODk4MjRiYzc3MjA0NDQyNWQ2MmNlNGY0Y2VkNzg5MjQwMzlkMzA0ZmY1MTc4ZTVlN2U3MGM)].
 **Please avoid using nicknames**.
 
 <p align="center"> 
-<img src="/img/slack.jpg" alt="slack" width="250"/>
+<img src="research-methods/img/slack.jpg" alt="slack" width="250"/>
 </p>
 
-In general, I scheduled my office hours on Tuesdays from 15 to 16 (*ONLY* upon request). While I am certainly happy to meet students, I would encourage you to bring up doubts, questions or issues of sort during tutorials.
+In general, I scheduled my office hours on **Tuesdays from 15 to 16 (*ONLY* upon request)**. While I am certainly happy to meet students, I would encourage you to bring up doubts, questions or issues of sort during tutorials.
 
 ### Get and install SPSS
 
