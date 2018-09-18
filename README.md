@@ -76,3 +76,7 @@ Coming soon!
 
 - [Collection of political datasets](https://github.com/erikgahner/PolData)
 - [NSD Data Overview](http://www.nsd.uib.no/nsd/english/datatjenester.html)
+
+## Aknowledgement 
+
+This repo has been forked from PO3600 repo from last year and further adapted/updated. We thank [Stefan Mueller](https://github.com/stefan-mueller) for the amazing resources.  
