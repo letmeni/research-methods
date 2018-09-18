@@ -18,7 +18,7 @@ How to join? Just click [HERE and use to TCD email to log in](https://join.slack
 **Please avoid using nicknames**.
 
 <p align="center"> 
-<img src="/img/slackicon.png" alt="TCD" width="100"/>
+<img src="/img/slackicon.png" alt="TCD" width="250"/>
 </p>
 
 In general, I scheduled my office hours on Tuesdays from 15 to 16 (*ONLY* upon request). While I am certainly happy to meet students, I would encourage you to bring up doubts, questions or issues of sort during tutorials.
