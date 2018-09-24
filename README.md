@@ -18,7 +18,7 @@ For questions about the lectures or tutorials you *can either send me an email o
 How to join? Just click [HERE and use to TCD email to log in](https://join.slack.com/t/researchmethodstcd/shared_invite/enQtNDM2ODc0NzIxMjIwLTE4YzY4YzAxMDc3ODk4MjRiYzc3MjA0NDQyNWQ2MmNlNGY0Y2VkNzg5MjQwMzlkMzA0ZmY1MTc4ZTVlN2U3MGM)].
 **Please avoid using nicknames**.
 
-<p align="center"> 
+<p align="center">
 <img src="https://i.kinja-img.com/gawker-media/image/upload/s--bG3V_j-_--/c_scale,f_auto,fl_progressive,q_80,w_800/qvk2b1y0p19wo1qruc85.png" width="250"/>
 </p>
 
@@ -71,6 +71,15 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 ### Tutorial 1, Michaelmas Term
 
+
+- [Tutorial Slides (MT 01)]() Coming soon!
+- [Introduction](https://libguides.library.kent.edu/SPSS/GettingStarted) to the SPSS Environment;
+- [Panels, symbols, output viewer](https://libguides.library.kent.edu/SPSS/Environment)
+- [Syntax editor](https://www.spss-tutorials.com/spss-syntax-editor-window/)
+- [Importing datasets](https://libguides.library.kent.edu/SPSS/ImportData)
+- [Simulate the distribution of sample means](http://onlinestatbook.com/stat_sim/sampling_dist/)
+
+
 Coming soon!
 
 ### Research Projects
@@ -78,6 +87,6 @@ Coming soon!
 - [Collection of political datasets](https://github.com/erikgahner/PolData)
 - [NSD Data Overview](http://www.nsd.uib.no/nsd/english/datatjenester.html)
 
-## Aknowledgement 
+## Aknowledgement
 
-This repo has been forked from PO3600 repo from last year and further adapted/updated. We thank [Stefan Mueller](https://github.com/stefan-mueller) for the amazing resources.  
+This repo has been forked from PO3600 repo from last year and further adapted/updated. We thank [Stefan Mueller](https://github.com/stefan-mueller) for the amazing resources.
