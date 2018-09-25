@@ -71,8 +71,12 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 ### Tutorial 1, Michaelmas Term
 
+#### Tutorial Material
+- [Tutorial Slides (MT 01)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_1.pdf)
+- [Data LOTR](https://github.com/AndrSalvi/research-methods/raw/master/course/data/wordsbycharacters.sav)
+- [DATA UCDP](https://github.com/AndrSalvi/research-methods/raw/master/course/data/UCDP.sav)
 
-- [Tutorial Slides (MT 01)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_1.pdf) Coming soon!
+##### Guides:
 - [Introduction](https://libguides.library.kent.edu/SPSS/GettingStarted) to the SPSS Environment;
 - [Panels, symbols, output viewer](https://libguides.library.kent.edu/SPSS/Environment)
 - [Syntax editor](https://www.spss-tutorials.com/spss-syntax-editor-window/)
