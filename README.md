@@ -69,7 +69,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 ## Michaelmas Term
 
-### Tutorial 1, Michaelmas Term
+### Tutorial 1, MT
 
 #### Tutorial Material
 - [Tutorial Slides (MT 01)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_1.pdf)
@@ -84,8 +84,18 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Importing datasets](https://libguides.library.kent.edu/SPSS/ImportData)
 - [Simulate the distribution of sample means](http://onlinestatbook.com/stat_sim/sampling_dist/)
 
+### Tutorial 2, MT
 
-Coming soon!
+#### Tutorial Material
+ - Coming soon!
+
+#### Guides
+- [Subset data](https://stats.idre.ucla.edu/spss/modules/ubsetting-data/)
+- [Recode variables](https://libguides.library.kent.edu/SPSS/RecodeVariables)
+- [How to name variables and share data](https://doi.org/10.7287/peerj.preprints.3139v3)
+- [Change decimals for numeric variables](http://www.theanalysisfactor.com/variable-formats-in-spss-syntax/)
+- [Difference between standard deviation and standard error](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3148365/pdf/11999_2011_Article_1908.pdf)
+
 
 ### Research Projects
 
