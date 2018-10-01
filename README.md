@@ -72,7 +72,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 ### Tutorial 1, MT
 
 #### Tutorial Material
-- [Tutorial Slides (MT 01)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_1MT.pdf)
+- [Tutorial Slides (MT 1)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_1MT.pdf)
 - [Data LOTR](https://github.com/AndrSalvi/research-methods/raw/master/course/data/mt1/wordsbycharacters.sav)
 - [DATA UCDP](https://github.com/AndrSalvi/research-methods/raw/master/course/data/mt1/UCDP.sav)
 - [SPSS101 Video Tutorial](https://youtu.be/0IAxSA_b6ZM)
@@ -87,7 +87,9 @@ Below I post a selection of useful links for each tutorial. If you found additio
 ### Tutorial 2, MT
 
 #### Tutorial Material
- - Coming soon!
+ - [Tutorial Slides (MT 2)]()
+ - [Parlgov Data](https://github.com/AndrSalvi/research-methods/raw/master/course/data/mt2/parlgov_elections.xlsx)
+ - [Parlgov Codebook](https://github.com/AndrSalvi/research-methods/raw/master/course/data/mt2/parlgov_elections_codebook.xlsx)
 
 #### Guides
 - [Subset data](https://stats.idre.ucla.edu/spss/modules/ubsetting-data/)
