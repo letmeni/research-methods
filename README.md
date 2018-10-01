@@ -87,7 +87,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 ### Tutorial 2, MT
 
 #### Tutorial Material
- - [Tutorial Slides (MT 2)]()
+ - [Tutorial Slides (MT 2)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_2_MT.pdf)
  - [Parlgov Data](https://github.com/AndrSalvi/research-methods/raw/master/course/data/mt2/parlgov_elections.xlsx)
  - [Parlgov Codebook](https://github.com/AndrSalvi/research-methods/raw/master/course/data/mt2/parlgov_elections_codebook.xlsx)
 
