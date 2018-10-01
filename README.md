@@ -72,9 +72,9 @@ Below I post a selection of useful links for each tutorial. If you found additio
 ### Tutorial 1, MT
 
 #### Tutorial Material
-- [Tutorial Slides (MT 01)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_1.pdf)
-- [Data LOTR](https://github.com/AndrSalvi/research-methods/raw/master/course/data/wordsbycharacters.sav)
-- [DATA UCDP](https://github.com/AndrSalvi/research-methods/raw/master/course/data/UCDP.sav)
+- [Tutorial Slides (MT 01)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_1MT.pdf)
+- [Data LOTR](https://github.com/AndrSalvi/research-methods/raw/master/course/data/mt1/wordsbycharacters.sav)
+- [DATA UCDP](https://github.com/AndrSalvi/research-methods/raw/master/course/data/mt1/UCDP.sav)
 - [SPSS101 Video Tutorial](https://youtu.be/0IAxSA_b6ZM)
 
 ##### Guides:
