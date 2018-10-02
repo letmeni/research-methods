@@ -93,6 +93,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 #### Guides
 - [Subset data](https://stats.idre.ucla.edu/spss/modules/ubsetting-data/)
+- [Grouped Data (Split Command)](https://libguides.library.kent.edu/SPSS/SplitData)
 - [Recode variables](https://libguides.library.kent.edu/SPSS/RecodeVariables)
 - [How to name variables and share data](https://doi.org/10.7287/peerj.preprints.3139v3)
 - [Change decimals for numeric variables](http://www.theanalysisfactor.com/variable-formats-in-spss-syntax/)
