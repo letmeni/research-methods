@@ -100,9 +100,9 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Difference between standard deviation and standard error](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3148365/pdf/11999_2011_Article_1908.pdf)
 
 ### Tutorial 3, MT
-- [Tutorial Slides (MT 3)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_3_MT.pdf)
 
 #### Tutorial Material
+- [Tutorial Slides (MT 3)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_3_MT.pdf)
 
 #### Guides
 - [Student's t-test explained](https://www.youtube.com/watch?v=pTmLQvMM-1M)
