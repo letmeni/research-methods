@@ -103,7 +103,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 #### Tutorial Material
 - [Tutorial Slides (MT 3)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_3_MT.pdf)
-
+- [Simulated Rent Data (by Stefan Mueller)](https://raw.githubusercontent.com/AndrSalvi/research-methods/master/course/data/mt3/dublin_rent_simulated.csv)
 #### Guides
 - [Student's t-test explained](https://www.youtube.com/watch?v=pTmLQvMM-1M)
 - [Calculate t-test by hand](http://www.statisticshowto.com/probability-and-statistics/t-test/)
@@ -115,7 +115,9 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Tutorial Slides (MT 4)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_4_MT.pdf)
 
 #### Guides
-
+- [Export in SPSS](https://www.ibm.com/support/knowledgecenter/en/SS3RA7_15.0.0/com.ibm.spss.modeler.help/graphs_filemenu_options.htm)
+- [Hypothesis Testing - Z test two-tailed example (VIDEO)](https://www.youtube.com/watch?v=0XXT3bIY_pw)
+- [Hypothesis Testing - T test one-tailed example (VIDEO)](https://www.youtube.com/watch?v=lNoxKsuJ6Xc)
 
 ### Research Projects
 
