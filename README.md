@@ -109,6 +109,14 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Calculate t-test by hand](http://www.statisticshowto.com/probability-and-statistics/t-test/)
 - [Calculate t-test in SPSS](https://statistics.laerd.com/spss-tutorials/one-sample-t-test-using-spss-statistics.php)
 
+### Tutorial 4, MT
+
+#### Tutorial Material
+- [Tutorial Slides (MT 4)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_4_MT.pdf)
+
+#### Guides
+
+
 ### Research Projects
 
 - [Collection of political datasets](https://github.com/erikgahner/PolData)
