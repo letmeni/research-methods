@@ -119,6 +119,19 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Hypothesis Testing - Z test two-tailed example (VIDEO)](https://www.youtube.com/watch?v=0XXT3bIY_pw)
 - [Hypothesis Testing - T test one-tailed example (VIDEO)](https://www.youtube.com/watch?v=lNoxKsuJ6Xc)
 
+
+### Tutorial 5, MT
+
+##### Tutorial Material
+- [Tutorial Slides (MT 5)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_5_MT.pdf)
+
+##### Guides
+- [Cross-tabs in SPSS](https://libguides.library.kent.edu/SPSS/Crosstabs)
+- [How (not) to interpret confidence intervals](https://www.mathbootcamps.com/interpreting-confidence-intervals/)
+- [Save and export graphs in SPSS](https://www.ibm.com/support/knowledgecenter/en/SS3RA7_15.0.0/com.ibm.spss.modeler.help/graphs_filemenu_options.htm)
+- [Add regression line to plot in SPSS](http://www.unige.ch/ses/sococ/cl/spss/eda/smoothing1.html)
+
+
 ### Research Projects
 
 - [Collection of political datasets](https://github.com/erikgahner/PolData)
