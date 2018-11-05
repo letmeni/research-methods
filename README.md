@@ -131,6 +131,17 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Save and export graphs in SPSS](https://www.ibm.com/support/knowledgecenter/en/SS3RA7_15.0.0/com.ibm.spss.modeler.help/graphs_filemenu_options.htm)
 - [Add regression line to plot in SPSS](http://www.unige.ch/ses/sococ/cl/spss/eda/smoothing1.html)
 
+### Tutorial 6, MT
+
+##### Tutorial Material
+- [Tutorial Slides (MT 6)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_6_MT.pdf)
+
+##### Guides
+- [Cross-tabs in SPSS](https://libguides.library.kent.edu/SPSS/Crosstabs)
+- [Merge datasets in SPSS](http://www.d.umn.edu/~mcoleman/tutorials/spss/merge.html)
+- [Understanding and interpret boxplots](https://www.wellbeingatschool.org.nz/information-sheet/understanding-and-interpreting-box-plots)
+- [Cheat sheet for plotting different types of variables](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
+- [Interpret results from cross-tables](https://stats.idre.ucla.edu/spss/faq/how-do-i-interpret-the-results-from-crosstabs/)
 
 ### Research Projects
 
