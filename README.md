@@ -143,6 +143,15 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Cheat sheet for plotting different types of variables](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
 - [Interpret results from cross-tables](https://stats.idre.ucla.edu/spss/faq/how-do-i-interpret-the-results-from-crosstabs/)
 
+### Tutorial 7, MT
+- [Tutorial Slides (MT 7)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_7_MT.pdf)
+
+##### Guides
+- [Lambda and Gamma](https://www.thoughtco.com/lambda-and-gamma-3026702)
+- [Calculate Gamma (by hand)](http://www.statisticshowto.com/gamma-coefficient-goodman-kruskal/)
+- [Measures of Association and Correlation in SPSS](Measures https://subjectguides.esc.edu/c.php?g=659059&p=4626955)
+
+
 ### Research Projects
 
 - [Collection of political datasets](https://github.com/erikgahner/PolData)
