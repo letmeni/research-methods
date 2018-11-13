@@ -149,7 +149,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 ##### Guides
 - [Lambda and Gamma](https://www.thoughtco.com/lambda-and-gamma-3026702)
 - [Calculate Gamma (by hand)](http://www.statisticshowto.com/gamma-coefficient-goodman-kruskal/)
-- [Measures of Association and Correlation in SPSS](Measures https://subjectguides.esc.edu/c.php?g=659059&p=4626955)
+- [Measures of Association and Correlation in SPSS](https://subjectguides.esc.edu/c.php?g=659059&p=4626955)
 
 
 ### Research Projects
