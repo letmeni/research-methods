@@ -151,6 +151,15 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Calculate Gamma (by hand)](http://www.statisticshowto.com/gamma-coefficient-goodman-kruskal/)
 - [Measures of Association and Correlation in SPSS](https://subjectguides.esc.edu/c.php?g=659059&p=4626955)
 
+### Tutorial 8, MT
+- [Tutorial Slides (MT 7)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_7__MT.pdf)
+
+##### Guides 
+- [Calculate correlation coefficient by hand](https://www.wikihow.com/Find-the-Correlation-Coefficient)
+- [Same stats, different graphs](https://www.autodeskresearch.com/publications/samestats)
+- [Choosing the right statistical test](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/)
+- [Choosing a statistical test](http://www.biostathandbook.com/testchoice.html)
+- [Tutorial: Choosing the correct statistical test](http://wise.cgu.edu/wise-tutorials/tutorial-choosing-the-correct-statistical-test/)
 
 ### Research Projects
 
