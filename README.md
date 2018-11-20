@@ -152,10 +152,11 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Measures of Association and Correlation in SPSS](https://subjectguides.esc.edu/c.php?g=659059&p=4626955)
 
 ### Tutorial 8, MT
-- [Tutorial Slides (MT 7)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_7__MT.pdf)
+- [Tutorial Slides (MT 8)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_8__MT.pdf)
 
 ##### Guides 
 - [Calculate correlation coefficient by hand](https://www.wikihow.com/Find-the-Correlation-Coefficient)
+- [Correlation in SPSS and some theory](https://libguides.library.kent.edu/SPSS/PearsonCorr)
 - [Same stats, different graphs](https://www.autodeskresearch.com/publications/samestats)
 - [Choosing the right statistical test](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/)
 - [Choosing a statistical test](http://www.biostathandbook.com/testchoice.html)
