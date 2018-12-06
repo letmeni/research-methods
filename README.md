@@ -162,8 +162,8 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Choosing a statistical test](http://www.biostathandbook.com/testchoice.html)
 - [Tutorial: Choosing the correct statistical test](http://wise.cgu.edu/wise-tutorials/tutorial-choosing-the-correct-statistical-test/)
 
-### Tutorial 8, MT
-- [Tutorial Slides (MT 9)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_9__MT.pdf)
+### Tutorial 9, MT
+- [Tutorial Slides (MT 9)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_9___MT.pdf)
 - [Data from Fearon and Laitin](https://tinyurl.com/method-conflict)
 
 ##### Guides 
