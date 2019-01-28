@@ -72,10 +72,17 @@ Below I post a selection of useful links for each tutorial. If you found additio
 ### Tutorial 1, HT
 
 #### Tutorial Material
-Coming soon!
+- [Tutorial Slides (MT 9)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_1__HT.pdf)
+- [Data from Fearon and Laitin](https://tinyurl.com/method-conflict)
+Tutorial_1__HT.pdf
 
 #### Guides
-Coming Soon
+- [Overview of t-tests](http://blog.minitab.com/blog/adventures-in-statistics-2/understanding-t-tests%3A-1-sample%2C-2-sample%2C-and-paired-t-tests)
+- [One sample t-test](https://www.statsdirect.com/help/parametric_methods/single_sample_t.htm)
+- [Two sample independent t-test](http://www.sthda.com/english/wiki/t-test-formula)
+- [Manifesto Research Project](https://manifesto-project.wzb.eu)
+- [Crowd-sourced text analysis](http://eprints.lse.ac.uk/62242/1/Crowd_sourced1.pdf)
+- [Tool for quantitative text analysis](https://tada-gui.shinyapps.io/tada/) (by Stefan Mueller)
 
 ## Michaelmas Term
 
@@ -177,10 +184,10 @@ Coming Soon
 - [Data from Fearon and Laitin](https://tinyurl.com/method-conflict)
 
 ##### Guides 
--[Advanced Video:Comparison of Independent-Samples T Test and Paired-Samples T Test using SPSS](https://www.youtube.com/watch?v=qqgiNc0G0us)
--[Types of T-tests](https://erc.barnard.edu/spss/t_tests)
--[Paired Samples T-tests](https://libguides.library.kent.edu/SPSS/PairedSamplestTest)
--[Independent Samples T-tests](https://libguides.library.kent.edu/SPSS/IndependentTTest)
+- [Advanced Video:Comparison of Independent-Samples T Test and Paired-Samples T Test using SPSS](https://www.youtube.com/watch?v=qqgiNc0G0us)
+- [Types of T-tests](https://erc.barnard.edu/spss/t_tests)
+- [Paired Samples T-tests](https://libguides.library.kent.edu/SPSS/PairedSamplestTest)
+- [Independent Samples T-tests](https://libguides.library.kent.edu/SPSS/IndependentTTest)
 
 ### Research Projects
 
