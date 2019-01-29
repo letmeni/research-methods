@@ -72,9 +72,8 @@ Below I post a selection of useful links for each tutorial. If you found additio
 ### Tutorial 1, HT
 
 #### Tutorial Material
-- [Tutorial Slides (MT 9)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_1__HT.pdf)
+- [Tutorial Slides (HT 1)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_1__HT.pdf)
 - [Data from Fearon and Laitin](https://tinyurl.com/method-conflict)
-Tutorial_1__HT.pdf
 
 #### Guides
 - [Overview of t-tests](http://blog.minitab.com/blog/adventures-in-statistics-2/understanding-t-tests%3A-1-sample%2C-2-sample%2C-and-paired-t-tests)
