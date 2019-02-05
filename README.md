@@ -68,6 +68,15 @@ To reiterate, **please copy the contents from the SPSS syntax file at the end of
 Below I post a selection of useful links for each tutorial. If you found additional material that might be useful, either open a [pull request on GitHub](https://help.github.com/articles/about-pull-requests/) or let me know via email/slack.
 
 ## Hilary Term 
+- [Tutorial Slides (HT 2)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_2__HT.pdf)
+
+### Tutorial 2, HT
+- [Tutorial Slides (HT2)]()
+
+#### Guides
+- [Run a linear regression in SPSS and interpret the output](https://statistics.laerd.com/spss-tutorials/linear-regression-using-spss-statistics.php)
+- [Kieran Healy. 2018. Data Visualization: A Practical Introduction](http://socviz.co)
+- [Simulate the coverage of confidence intervals](https://istats.shinyapps.io/ExploreCoverage/)
 
 ### Tutorial 1, HT
 
@@ -82,6 +91,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Manifesto Research Project](https://manifesto-project.wzb.eu)
 - [Crowd-sourced text analysis](http://eprints.lse.ac.uk/62242/1/Crowd_sourced1.pdf)
 - [Tool for quantitative text analysis](https://tada-gui.shinyapps.io/tada/) (by Stefan Mueller)
+
 
 ## Michaelmas Term
 
