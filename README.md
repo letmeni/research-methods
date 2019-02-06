@@ -69,6 +69,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 ## Hilary Term 
 - [Tutorial Slides (HT 2)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_2__HT.pdf)
+- [Norris Dataset](https://github.com/AndrSalvi/research-methods/blob/master/course/data/ht2/Norris.sav)
 
 ### Tutorial 2, HT
 - [Tutorial Slides (HT2)]()
