@@ -72,7 +72,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Norris Dataset](https://github.com/AndrSalvi/research-methods/blob/master/course/data/ht2/Norris.sav)
 
 ### Tutorial 2, HT
-- [Tutorial Slides (HT2)]()
+- [Tutorial Slides (HT2)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_2_HT.pdf)
 
 #### Guides
 - [Run a linear regression in SPSS and interpret the output](https://statistics.laerd.com/spss-tutorials/linear-regression-using-spss-statistics.php)
