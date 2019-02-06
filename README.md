@@ -68,11 +68,10 @@ To reiterate, **please copy the contents from the SPSS syntax file at the end of
 Below I post a selection of useful links for each tutorial. If you found additional material that might be useful, either open a [pull request on GitHub](https://help.github.com/articles/about-pull-requests/) or let me know via email/slack.
 
 ## Hilary Term 
-- [Tutorial Slides (HT 2)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_2__HT.pdf)
-- [Norris Dataset](https://github.com/AndrSalvi/research-methods/blob/master/course/data/ht2/Norris.sav)
 
 ### Tutorial 2, HT
-- [Tutorial Slides (HT2)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_2_HT.pdf)
+- [Tutorial Slides (HT 2)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_2_HT.pdf)
+- [Norris Dataset](https://github.com/AndrSalvi/research-methods/blob/master/course/data/ht2/Norris.sav)
 
 #### Guides
 - [Run a linear regression in SPSS and interpret the output](https://statistics.laerd.com/spss-tutorials/linear-regression-using-spss-statistics.php)
