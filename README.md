@@ -69,9 +69,28 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 ## Hilary Term 
 
+### Tutorial 4, HT
+- [Tutorial Slides (HT 4)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_4__HT.pdf)
+- [Norris Data](https://tinyurl.com/norris-ht4)
+
+
+### Guides
+- [How To Visualise Your Data (Financial Times)](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary)
+- [Difference between t-test and F-test](https://keydifferences.com/difference-between-t-test-and-f-test.html)
+- [SPSS Regression Diagnostics](https://stats.idre.ucla.edu/spss/seminars/introduction-to-regression-with-spss/introreg-lesson2/)
+- [Testing Assumptions of Linear Regression in SPSS](http://www.statisticssolutions.com/testing-assumptions-of-linear-regression-in-spss/)
+- [Regression Diagnostics in R](https://www.statmethods.net/stats/rdiagnostics.html)
+- [Reverse Engineering a Regression Table](https://achimkemmerling.files.wordpress.com/2018/01/regressiontable1.pdf)
+- [Understanding Cook's Distance Using SPSS](https://www.youtube.com/watch?v=AJT65PS8MCw)
+- [Influential Observations](http://onlinestatbook.com/2/regression/influential.html)
+
 ### Tutorial 3, HT
 - [Tutorial Slides (HT 3)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_3__HT.pdf)
 - [Data from Fearon and Laitin](https://tinyurl.com/method-conflict)
+
+### Guides
+- [SPSS Annotated Output Regression Analysis](https://stats.idre.ucla.edu/spss/output/regression-analysis/)
+
 
 ### Tutorial 2, HT
 - [Tutorial Slides (HT 2)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_2_HT.pdf)
