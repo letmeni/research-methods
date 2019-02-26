@@ -69,10 +69,15 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 ## Hilary Term 
 
+### Tutorial 5, HT
+- [Tutorial Slides (HT 5)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_5__HT.pdf)
+
+### Guides
+See Tutorial 4!
+
 ### Tutorial 4, HT
 - [Tutorial Slides (HT 4)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_4__HT.pdf)
 - [Norris Data](https://tinyurl.com/norris-ht4)
-
 
 ### Guides
 - [How To Visualise Your Data (Financial Times)](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary)
