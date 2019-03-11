@@ -70,8 +70,8 @@ Below I post a selection of useful links for each tutorial. If you found additio
 ## Hilary Term 
 
 ### Tutorial 6, HT
-- [Tutorial Slides (HT 5)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_6__HT.pdf)
-- [Anes 2016 Data](https://tinyurl.com/anes16)
+- [Tutorial Slides (HT 6)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_6__HT.pdf)
+- [Anes 2016 Data](https://tinyurl.com/anes16sav)
 
 ### Tutorial 5, HT
 - [Tutorial Slides (HT 5)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_5__HT.pdf)
