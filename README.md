@@ -69,6 +69,14 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 ## Hilary Term 
 
+### Tutorial 7, HT
+- [Tutorial Slides (HT 7)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_7_HT.pdf)
+- [Anes 2016 Data](https://tinyurl.com/anes16sav)
+
+### Guides 
+- [Binomial Logistic Regression in SPSS](https://statistics.laerd.com/spss-tutorials/binomial-logistic-regression-using-spss-statistics.php)
+- [Interpret Odds-Ratio in Logistic Regression](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-how-do-i-interpret-odds-ratios-in-logistic-regression/]
+
 ### Tutorial 6, HT
 - [Tutorial Slides (HT 6)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_6__HT (1).pdf)
 - [Anes 2016 Data](https://tinyurl.com/anes16sav)
