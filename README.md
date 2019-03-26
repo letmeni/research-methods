@@ -68,9 +68,10 @@ To reiterate, **please copy the contents from the SPSS syntax file at the end of
 Below I post a selection of useful links for each tutorial. If you found additional material that might be useful, either open a [pull request on GitHub](https://help.github.com/articles/about-pull-requests/) or let me know via email/slack.
 
 ## Hilary Term
-- [Tutorial Slides (HT 7)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_8_HT.pdf)
+
 
 ### Tutorial 8, HT
+- [Tutorial Slides (HT 8)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_8_HT.pdf)
 
 ### Guides
 - [Pseudo R Squares](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-what-are-pseudo-r-squareds/)
