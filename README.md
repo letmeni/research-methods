@@ -69,9 +69,11 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 ## Hilary Term
 
+### Tutorial 9, HT 
+- [Tutorial Slides (HT 9)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_9__HT.pdf)
 
 ### Tutorial 8, HT
-- [Tutorial Slides (HT 8)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_8_HT.pdf)
+- [Tutorial Slides (HT 8)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_8__HT.pdf)
 
 ### Guides
 - [Pseudo R Squares](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-what-are-pseudo-r-squareds/)
