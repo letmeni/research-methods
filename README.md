@@ -69,6 +69,10 @@ Below I post a selection of useful links for each tutorial. If you found additio
 
 ## Hilary Term
 
+### Tutorial 10, HT 
+- [Tutorial Slides (HT 10)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_10__HT.pdf)
+- [Data on Happiness](http://tinyurl.com/happinessht10)
+
 ### Tutorial 9, HT 
 - [Tutorial Slides (HT 9)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_9__HT.pdf)
 
