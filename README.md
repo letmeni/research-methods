@@ -1,6 +1,6 @@
-# Research Methods for Political Science (2018-2019)
+# Research Methods for Political Science (2019-2020)
 
-Welcome! This website is meant to provide students with additional and useful material for PO3110 and PO3111, [Research Methods for Political Science A](https://www.tcd.ie/Political_Science/undergraduate/module-outlines/js/research-methods-a/) and [B](https://www.tcd.ie/Political_Science/undergraduate/module-outlines/js/research-methods-b/).
+Welcome! This website is meant to provide students with additional and useful material for PO3110 and PO3111, [Research Methods for Political Science A](https://www.tcd.ie/Political_Science/undergraduate/module-outlines/js/research-methods-a/index1920.php) and [B](https://www.tcd.ie/Political_Science/undergraduate/module-outlines/js/research-methods-b/index1920.php).
 
 This space will be used to publish tutorials' slides and extra-material such as useful papers or web-pages. You find the slides of the lectures, homeworks and datasets on [Blackboard](http://tcd.ie/blackboard). This webpage only supplements the information from Blackboard by offering additional material.
 
@@ -10,12 +10,12 @@ Should you have further queries, please do [get in touch with me](http://andrsal
 
 I prepared this Google Calendar with all the main deadlines and dates for the course. Feel free to add it to your Calendars.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=mfgg7rirvsktd2jjv9jqie43cc%40group.calendar.google.com&ctz=Europe%2FDublin" style="border: 0" width="600" height="550" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=5jvccpkb60p20oep47ra3r4iqg%40group.calendar.google.com&ctz=Europe%2FDublin" style="border: 0" width="600" height="550" frameborder="0" scrolling="no"></iframe>
 
 ### Communication and Office Hours
 For questions about the lectures or tutorials you *can either send me an email or join the Slack channel* I have set up for the course. Slack is a workspace hub with amazing chat features that allow for a quick and efficient communication. The idea behind this is to create a virtual space where you can ask questions that me and your colleague will be able to see as well (use emails for private communication!). For a fancier description on slack click [HERE](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-).
 
-How to join? Just click [HERE and use to TCD email to log in](https://join.slack.com/t/researchmethodstcd/shared_invite/enQtNDM2ODc0NzIxMjIwLTE4YzY4YzAxMDc3ODk4MjRiYzc3MjA0NDQyNWQ2MmNlNGY0Y2VkNzg5MjQwMzlkMzA0ZmY1MTc4ZTVlN2U3MGM)].
+How to join? Just click [HERE and use to TCD email to log in](https://join.slack.com/t/researchmethods-tcd/shared_invite/enQtNzUwMDcyMjQ5OTY5LTgyNjcwOGRhOTJlMjIzNDc5NGZkNzJmZDJlNGJlZWEwZmZhYWQzNWNkZDY3NmI0MDNmZDU1YTc5ZGY0NTZkZTk)].
 **Please avoid using nicknames**.
 
 <p align="center">
@@ -66,6 +66,8 @@ To reiterate, **please copy the contents from the SPSS syntax file at the end of
 ## Useful links for each tutorial
 
 Below I post a selection of useful links for each tutorial. If you found additional material that might be useful, either open a [pull request on GitHub](https://help.github.com/articles/about-pull-requests/) or let me know via email/slack.
+
+<!---
 
 ## Hilary Term
 
@@ -257,6 +259,9 @@ See Tutorial 4!
 - [Types of T-tests](https://erc.barnard.edu/spss/t_tests)
 - [Paired Samples T-tests](https://libguides.library.kent.edu/SPSS/PairedSamplestTest)
 - [Independent Samples T-tests](https://libguides.library.kent.edu/SPSS/IndependentTTest)
+
+-->
+
 
 ### Research Projects
 
