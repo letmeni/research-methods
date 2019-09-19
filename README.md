@@ -67,6 +67,8 @@ To reiterate, **please copy the contents from the SPSS syntax file at the end of
 
 Below I post a selection of useful links for each tutorial. If you found additional material that might be useful, either open a [pull request on GitHub](https://help.github.com/articles/about-pull-requests/) or let me know via email/slack.
 
+
+
 <!---
 
 ## Hilary Term
@@ -155,22 +157,7 @@ See Tutorial 4!
 - [Tool for quantitative text analysis](https://tada-gui.shinyapps.io/tada/) (by Stefan Mueller)
 
 
-## Michaelmas Term
 
-### Tutorial 1, MT
-
-#### Tutorial Material
-- [Tutorial Slides (MT 1)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_1MT.pdf)
-- [Data LOTR](https://github.com/AndrSalvi/research-methods/raw/master/course/data/mt1/wordsbycharacters.sav)
-- [DATA UCDP](https://github.com/AndrSalvi/research-methods/raw/master/course/data/mt1/UCDP.sav)
-- [SPSS101 Video Tutorial](https://youtu.be/0IAxSA_b6ZM)
-
-##### Guides:
-- [Introduction](https://libguides.library.kent.edu/SPSS/GettingStarted) to the SPSS Environment;
-- [Panels, symbols, output viewer](https://libguides.library.kent.edu/SPSS/Environment)
-- [Syntax editor](https://www.spss-tutorials.com/spss-syntax-editor-window/)
-- [Importing datasets](https://libguides.library.kent.edu/SPSS/ImportData)
-- [Simulate the distribution of sample means](http://onlinestatbook.com/stat_sim/sampling_dist/)
 
 ### Tutorial 2, MT
 
@@ -261,6 +248,23 @@ See Tutorial 4!
 - [Independent Samples T-tests](https://libguides.library.kent.edu/SPSS/IndependentTTest)
 
 -->
+
+## Michaelmas Term
+
+### Tutorial 1, MT
+
+#### Tutorial Material
+- [Tutorial Slides (MT 1)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_1MT.pdf)
+- [Data LOTR](https://github.com/AndrSalvi/research-methods/raw/master/course/data/mt1/wordsbycharacters.sav)
+- [DATA UCDP](https://github.com/AndrSalvi/research-methods/raw/master/course/data/mt1/UCDP.sav)
+- [SPSS101 Video Tutorial](https://youtu.be/0IAxSA_b6ZM)
+
+##### Guides:
+- [Introduction](https://libguides.library.kent.edu/SPSS/GettingStarted) to the SPSS Environment;
+- [Panels, symbols, output viewer](https://libguides.library.kent.edu/SPSS/Environment)
+- [Syntax editor](https://www.spss-tutorials.com/spss-syntax-editor-window/)
+- [Importing datasets](https://libguides.library.kent.edu/SPSS/ImportData)
+- [Simulate the distribution of sample means](http://onlinestatbook.com/stat_sim/sampling_dist/)
 
 
 ### Research Projects
