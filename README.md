@@ -85,7 +85,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Importing datasets](https://libguides.library.kent.edu/SPSS/ImportData)
 - [Simulate the distribution of sample means](http://onlinestatbook.com/stat_sim/sampling_dist/)
 
-<!---
+
 
 ### Tutorial 2, MT
 
@@ -101,7 +101,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [How to name variables and share data](https://doi.org/10.7287/peerj.preprints.3139v3)
 - [Change decimals for numeric variables](http://www.theanalysisfactor.com/variable-formats-in-spss-syntax/)
 - [Difference between standard deviation and standard error](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3148365/pdf/11999_2011_Article_1908.pdf)
-
+<!---
 ### Tutorial 3, MT
 
 #### Tutorial Material
