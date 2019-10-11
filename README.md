@@ -90,7 +90,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 ### Tutorial 2, MT
 
 #### Tutorial Material
- - [Tutorial Slides (MT 2)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_2_MT.pdf)
+ - [Tutorial Slides (MT 2)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_2MT.pdf)
  - [Parlgov Data](https://github.com/AndrSalvi/research-methods/raw/master/course/data/mt2/parlgov_elections.xlsx)
  - [Parlgov Codebook](https://github.com/AndrSalvi/research-methods/raw/master/course/data/mt2/parlgov_elections_codebook.xlsx)
 
@@ -105,28 +105,28 @@ Below I post a selection of useful links for each tutorial. If you found additio
 ### Tutorial 3, MT
 
 #### Tutorial Material
-- [Tutorial Slides (MT 3)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_3_MT.pdf)
+- [Tutorial Slides (MT 3)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_3MT.pdf)
 - [Simulated Rent Data (by Stefan Mueller)](https://raw.githubusercontent.com/AndrSalvi/research-methods/master/course/data/mt3/dublin_rent_simulated.csv)
 #### Guides
 - [Student's t-test explained](https://www.youtube.com/watch?v=pTmLQvMM-1M)
 - [Calculate t-test by hand](http://www.statisticshowto.com/probability-and-statistics/t-test/)
 - [Calculate t-test in SPSS](https://statistics.laerd.com/spss-tutorials/one-sample-t-test-using-spss-statistics.php)
-<!---
+
 ### Tutorial 4, MT
 
 #### Tutorial Material
-- [Tutorial Slides (MT 4)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_4_MT.pdf)
+- [Tutorial Slides (MT 4)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_4MT.pdf)
 
 #### Guides
 - [Export in SPSS](https://www.ibm.com/support/knowledgecenter/en/SS3RA7_15.0.0/com.ibm.spss.modeler.help/graphs_filemenu_options.htm)
 - [Hypothesis Testing - Z test two-tailed example (VIDEO)](https://www.youtube.com/watch?v=0XXT3bIY_pw)
 - [Hypothesis Testing - T test one-tailed example (VIDEO)](https://www.youtube.com/watch?v=lNoxKsuJ6Xc)
 
-
+<!---
 ### Tutorial 5, MT
 
 ##### Tutorial Material
-- [Tutorial Slides (MT 5)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_5_MT.pdf)
+- [Tutorial Slides (MT 5)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_5MT.pdf)
 
 ##### Guides
 - [Cross-tabs in SPSS](https://libguides.library.kent.edu/SPSS/Crosstabs)
@@ -137,7 +137,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 ### Tutorial 6, MT
 
 ##### Tutorial Material
-- [Tutorial Slides (MT 6)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_6_MT.pdf)
+- [Tutorial Slides (MT 6)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_6MT.pdf)
 
 ##### Guides
 - [Cross-tabs in SPSS](https://libguides.library.kent.edu/SPSS/Crosstabs)
@@ -147,7 +147,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Interpret results from cross-tables](https://stats.idre.ucla.edu/spss/faq/how-do-i-interpret-the-results-from-crosstabs/)
 
 ### Tutorial 7, MT
-- [Tutorial Slides (MT 7)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_7__MT.pdf)
+- [Tutorial Slides (MT 7)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_7MT.pdf)
 
 ##### Guides
 - [Lambda and Gamma](https://www.thoughtco.com/lambda-and-gamma-3026702)
@@ -155,7 +155,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Measures of Association and Correlation in SPSS](https://subjectguides.esc.edu/c.php?g=659059&p=4626955)
 
 ### Tutorial 8, MT
-- [Tutorial Slides (MT 8)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_8__MT.pdf)
+- [Tutorial Slides (MT 8)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_8MT.pdf)
 
 ##### Guides
 - [Calculate correlation coefficient by hand](https://www.wikihow.com/Find-the-Correlation-Coefficient)
@@ -166,7 +166,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Tutorial: Choosing the correct statistical test](http://wise.cgu.edu/wise-tutorials/tutorial-choosing-the-correct-statistical-test/)
 
 ### Tutorial 9, MT
-- [Tutorial Slides (MT 9)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_9___MT.pdf)
+- [Tutorial Slides (MT 9)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_9MT.pdf)
 - [Data from Fearon and Laitin](https://tinyurl.com/method-conflict)
 
 ##### Guides
@@ -175,22 +175,18 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Paired Samples T-tests](https://libguides.library.kent.edu/SPSS/PairedSamplestTest)
 - [Independent Samples T-tests](https://libguides.library.kent.edu/SPSS/IndependentTTest)
 
--->
-
-
-<!---
 
 ## Hilary Term
 
 ### Tutorial 10, HT
-- [Tutorial Slides (HT 10)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_10__HT.pdf)
+- [Tutorial Slides (HT 10)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_10HT.pdf)
 - [Data on Happiness](http://tinyurl.com/happinessht10)
 
 ### Tutorial 9, HT
-- [Tutorial Slides (HT 9)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_9__HT.pdf)
+- [Tutorial Slides (HT 9)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_9HT.pdf)
 
 ### Tutorial 8, HT
-- [Tutorial Slides (HT 8)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_8__HT.pdf)
+- [Tutorial Slides (HT 8)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_8HT.pdf)
 
 ### Guides
 - [Pseudo R Squares](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-what-are-pseudo-r-squareds/)
@@ -199,7 +195,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Interpretation of Dummy Variables (intuitive examples)](https://stattrek.com/multiple-regression/dummy-variables.aspx)
 
 ### Tutorial 7, HT
-- [Tutorial Slides (HT 7)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_7_HT.pdf)
+- [Tutorial Slides (HT 7)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_7HT.pdf)
 - [Anes 2016 Data](https://tinyurl.com/anes16sav)
 
 ### Guides
@@ -207,7 +203,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Interpret Odds-Ratio in Logistic Regression](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-how-do-i-interpret-odds-ratios-in-logistic-regression/)
 
 ### Tutorial 6, HT
-- [Tutorial Slides (HT 6)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_6__HT (1).pdf)
+- [Tutorial Slides (HT 6)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_6HT (1).pdf)
 - [Anes 2016 Data](https://tinyurl.com/anes16sav)
 
 ### Guides
@@ -215,13 +211,13 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [More on interaction effects](https://www.theanalysisfactor.com/interpreting-interactions-in-regression/)
 
 ### Tutorial 5, HT
-- [Tutorial Slides (HT 5)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_5__HT.pdf)
+- [Tutorial Slides (HT 5)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_5HT.pdf)
 
 ### Guides
 See Tutorial 4!
 
 ### Tutorial 4, HT
-- [Tutorial Slides (HT 4)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_4__HT.pdf)
+- [Tutorial Slides (HT 4)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_4HT.pdf)
 - [Norris Data](https://tinyurl.com/norris-ht4)
 
 ### Guides
@@ -235,7 +231,7 @@ See Tutorial 4!
 - [Influential Observations](http://onlinestatbook.com/2/regression/influential.html)
 
 ### Tutorial 3, HT
-- [Tutorial Slides (HT 3)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_3__HT.pdf)
+- [Tutorial Slides (HT 3)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_3HT.pdf)
 - [Data from Fearon and Laitin](https://tinyurl.com/method-conflict)
 
 ### Guides
@@ -243,7 +239,7 @@ See Tutorial 4!
 
 
 ### Tutorial 2, HT
-- [Tutorial Slides (HT 2)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_2_HT.pdf)
+- [Tutorial Slides (HT 2)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_2HT.pdf)
 - [Norris Dataset](https://github.com/AndrSalvi/research-methods/blob/master/course/data/ht2/Norris.sav)
 
 #### Guides
@@ -254,7 +250,7 @@ See Tutorial 4!
 ### Tutorial 1, HT
 
 #### Tutorial Material
-- [Tutorial Slides (HT 1)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_1__HT.pdf)
+- [Tutorial Slides (HT 1)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_1HT.pdf)
 - [Data from Fearon and Laitin](https://tinyurl.com/method-conflict)
 
 #### Guides
@@ -273,6 +269,6 @@ See Tutorial 4!
 - [Collection of political datasets](https://github.com/erikgahner/PolData)
 - [NSD Data Overview](http://www.nsd.uib.no/nsd/english/datatjenester.html)
 
-## Aknowledgement
+## Acknowledgements
 
 This repo has been forked from PO3600 repo from last year and further adapted/updated. We thank [Stefan Mueller](https://github.com/stefan-mueller) for the amazing resources.
