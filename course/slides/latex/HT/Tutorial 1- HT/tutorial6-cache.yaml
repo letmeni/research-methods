@@ -1,0 +1,2836 @@
+version: 0.12.2
+filePath: tutorial6.tex
+options:
+  $BIBINPUTS:
+    - $ROOTDIR
+    - $ROOTDIR/$OUTDIR
+    - ''
+  $TEXINPUTS:
+    - $ROOTDIR
+    - $ROOTDIR/$OUTDIR
+    - ''
+  bibtexEngine: bibtex
+  cleanPatterns:
+    - '**/*.aux'
+    - '**/*.aux.bak'
+    - '**/*.bbl'
+    - '**/*.bcf'
+    - '**/*.blg'
+    - '**/*.dvi'
+    - '**/*.fdb_latexmk'
+    - '**/*.fls'
+    - '**/*.idx'
+    - '**/*.idx.bak'
+    - '**/*.ilg'
+    - '**/*.ind'
+    - '**/*.lof'
+    - '**/*.log'
+    - '**/*.lol'
+    - '**/*.lot'
+    - '**/*.nav'
+    - '**/*.out'
+    - '**/*.pdf'
+    - '**/*.ps'
+    - '**/*.snm'
+    - '**/*.synctex.gz'
+    - '**/*.toc'
+    - '/**/_minted-${JOB}'
+    - '/${OUTDIR}/sage-plots-for-${JOB}.tex'
+    - /missfont.log
+    - /texput.log
+    - /texput.aux
+  dviToPdfEngine: xdvipdfmx
+  engine: xelatex
+  epstopdfBoundingBox: default
+  epstopdfOutputPath: $DIR_0/$NAME_0.pdf
+  indexAutomaticRanges: true
+  indexEngine: makeindex
+  indexOrdering: word
+  indexSorting: default
+  knitrConcordance: true
+  knitrOutputPath: $JOB.tex
+  lhs2texStyle: poly
+  literateAgdaEngine: agda
+  literateHaskellEngine: lhs2TeX
+  loadCache: true
+  loadUserOptions: true
+  outputFormat: pdf
+  phaseCycles: 20
+  pweaveCacheDirectory: pweave-cache-for-$JOB
+  pweaveFigureDirectory: pweave-figures-for-$JOB
+  pweaveKernel: python3
+  pweaveOutputFormat: tex
+  pweaveOutputPath: $JOB.tex
+  saveCache: true
+  severity: info
+  validateCache: true
+  synctex: true
+  copyTargetsToRoot: true
+  outputDirectory: ''
+  intermediatePostScript: false
+  $PATH: >-
+    %SystemDrive%\texlive\2017\bin\win32;%SystemDrive%\texlive\2016\bin\win32;%SystemDrive%\texlive\2015\bin\win32;%ProgramFiles%\MiKTeX
+    2.9\miktex\bin\x64;%ProgramFiles(x86)%\MiKTeX 2.9\miktex\bin;$PATH
+files:
+  dicy-instance.yaml-ParsedYAML:
+    timeStamp: 2019-10-16T23:55:37.468Z
+    jobNames: []
+    value:
+      severity: info
+    type: ParsedYAML
+  dicy.yaml-ParsedYAML:
+    jobNames: []
+    type: ParsedYAML
+  tutorial6.yaml-ParsedYAML:
+    jobNames: []
+    type: ParsedYAML
+  tutorial6.tex-ParsedLaTeXMagic:
+    timeStamp: 2019-10-16T23:46:38.908Z
+    jobNames: []
+    value: {}
+    type: ParsedLaTeXMagic
+  'C:\Users\andrs\AppData\Roaming\dicy\config.yaml-ParsedYAML':
+    timeStamp: 2019-10-16T23:59:57.738Z
+    jobNames: []
+    value:
+      synctex: true
+      engine: xelatex
+      severity: warning
+      copyTargetsToRoot: true
+      outputDirectory: ''
+      outputFormat: pdf
+      cleanPatterns:
+        - '**/*.aux'
+        - '**/*.aux.bak'
+        - '**/*.bbl'
+        - '**/*.bcf'
+        - '**/*.blg'
+        - '**/*.dvi'
+        - '**/*.fdb_latexmk'
+        - '**/*.fls'
+        - '**/*.idx'
+        - '**/*.idx.bak'
+        - '**/*.ilg'
+        - '**/*.ind'
+        - '**/*.lof'
+        - '**/*.log'
+        - '**/*.lol'
+        - '**/*.lot'
+        - '**/*.nav'
+        - '**/*.out'
+        - '**/*.pdf'
+        - '**/*.ps'
+        - '**/*.snm'
+        - '**/*.synctex.gz'
+        - '**/*.toc'
+        - '/**/_minted-${JOB}'
+        - '/${OUTDIR}/sage-plots-for-${JOB}.tex'
+        - /missfont.log
+        - /texput.log
+        - /texput.aux
+      intermediatePostScript: false
+      $PATH: >-
+        %SystemDrive%\texlive\2017\bin\win32;%SystemDrive%\texlive\2016\bin\win32;%SystemDrive%\texlive\2015\bin\win32;%ProgramFiles%\MiKTeX
+        2.9\miktex\bin\x64;%ProgramFiles(x86)%\MiKTeX 2.9\miktex\bin;$PATH
+    type: ParsedYAML
+  tutorial6.tex:
+    timeStamp: 2019-10-16T23:54:16.240Z
+    jobNames: []
+    hash: TY7vGN7SFV7zJEaEcuTL9EH/BLl4+m/bTUTTIY+eSbM=
+    type: LaTeX
+    subType: beamer
+  'C:\Users\andrs\AppData\Roaming\dicy\config.yaml':
+    timeStamp: 2019-10-16T23:59:57.705Z
+    jobNames: []
+    type: YAML
+  x.y-Nil:
+    jobNames: []
+    type: Nil
+  tutorial6.fls-ParsedFileListing:
+    jobNames: []
+    type: ParsedFileListing
+  tutorial6.log-ParsedLaTeXLog:
+    timeStamp: 2019-10-16T23:59:57.852Z
+    jobNames: []
+    value:
+      messages:
+        - name: LuaTeX
+          severity: info
+          text: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\etoolbox\etoolbox.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 66
+              end: 66
+        - name: LuaTeX
+          severity: info
+          text: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\generic\oberdiek\ifpdf.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 80
+              end: 80
+        - name: LuaTeX
+          severity: info
+          text: keyval 2014/10/28 v1.15 key=value parser (DPC)
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\graphics\keyval.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 126
+              end: 126
+        - name: LuaTeX
+          severity: info
+          text: geometry 2018/04/16 v5.8 Page Geometry
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\geometry\geometry.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 132
+              end: 132
+        - name: LuaTeX
+          severity: info
+          text: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\generic\oberdiek\ifvtex.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 134
+              end: 134
+        - severity: info
+          name: LuaTeX
+          category: Package ifvtex
+          text: VTeX not detected.
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\generic\oberdiek\ifvtex.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 135
+              end: 135
+        - name: LuaTeX
+          severity: info
+          text: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\generic\ifxetex\ifxetex.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 137
+              end: 137
+        - name: LuaTeX
+          severity: info
+          text: 'graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)'
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\graphics\graphicx.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 157
+              end: 157
+        - name: LuaTeX
+          severity: info
+          text: 'graphics 2019/10/08 v1.3c Standard LaTeX Graphics (DPC,SPQR)'
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\graphics\graphics.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 159
+              end: 159
+        - name: LuaTeX
+          severity: info
+          text: trig 2016/01/03 v1.10 sin cos tan (DPC)
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\graphics\trig.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 161
+              end: 161
+        - severity: info
+          name: LuaTeX
+          category: Package graphics
+          text: 'Driver file: luatex.def'
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\graphics\graphics.sty'
+            range:
+              start: 105
+              end: 105
+          log:
+            file: tutorial6.log
+            range:
+              start: 165
+              end: 165
+        - name: LuaTeX
+          severity: info
+          text: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\ms\everyshi.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 181
+              end: 181
+        - name: LuaTeX
+          severity: info
+          text: pgfrcs 2019/08/03 v3.1.4b (3.1.4b)
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\generic\pgf\utilities\pgfrcs.code.tex
+          log:
+            file: tutorial6.log
+            range:
+              start: 184
+              end: 184
+        - name: LuaTeX
+          severity: info
+          text: pgfsys 2019/08/03 v3.1.4b (3.1.4b)
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\generic\pgf\systemlayer\pgfsys.code.tex
+          log:
+            file: tutorial6.log
+            range:
+              start: 186
+              end: 186
+        - name: LuaTeX
+          severity: info
+          text: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\xcolor\xcolor.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 230
+              end: 230
+        - severity: info
+          name: LuaTeX
+          category: Package xcolor
+          text: 'Driver file: luatex.def'
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\xcolor\xcolor.sty'
+            range:
+              start: 225
+              end: 225
+          log:
+            file: tutorial6.log
+            range:
+              start: 234
+              end: 234
+        - severity: info
+          name: LuaTeX
+          category: Package xcolor
+          text: Model `cmy' substituted by `cmy0'
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\xcolor\xcolor.sty'
+            range:
+              start: 1348
+              end: 1348
+          log:
+            file: tutorial6.log
+            range:
+              start: 235
+              end: 235
+        - severity: info
+          name: LuaTeX
+          category: Package xcolor
+          text: Model `hsb' substituted by `rgb'
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\xcolor\xcolor.sty'
+            range:
+              start: 1352
+              end: 1352
+          log:
+            file: tutorial6.log
+            range:
+              start: 236
+              end: 236
+        - severity: info
+          name: LuaTeX
+          category: Package xcolor
+          text: Model `RGB' extended
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\xcolor\xcolor.sty'
+            range:
+              start: 1364
+              end: 1364
+          log:
+            file: tutorial6.log
+            range:
+              start: 237
+              end: 237
+        - severity: info
+          name: LuaTeX
+          category: Package xcolor
+          text: Model `HTML' substituted by `rgb'
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\xcolor\xcolor.sty'
+            range:
+              start: 1366
+              end: 1366
+          log:
+            file: tutorial6.log
+            range:
+              start: 238
+              end: 238
+        - severity: info
+          name: LuaTeX
+          category: Package xcolor
+          text: Model `Hsb' substituted by `hsb'
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\xcolor\xcolor.sty'
+            range:
+              start: 1367
+              end: 1367
+          log:
+            file: tutorial6.log
+            range:
+              start: 239
+              end: 239
+        - severity: info
+          name: LuaTeX
+          category: Package xcolor
+          text: Model `tHsb' substituted by `hsb'
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\xcolor\xcolor.sty'
+            range:
+              start: 1368
+              end: 1368
+          log:
+            file: tutorial6.log
+            range:
+              start: 240
+              end: 240
+        - severity: info
+          name: LuaTeX
+          category: Package xcolor
+          text: Model `HSB' substituted by `hsb'
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\xcolor\xcolor.sty'
+            range:
+              start: 1369
+              end: 1369
+          log:
+            file: tutorial6.log
+            range:
+              start: 241
+              end: 241
+        - severity: info
+          name: LuaTeX
+          category: Package xcolor
+          text: Model `Gray' substituted by `gray'
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\xcolor\xcolor.sty'
+            range:
+              start: 1370
+              end: 1370
+          log:
+            file: tutorial6.log
+            range:
+              start: 242
+              end: 242
+        - severity: info
+          name: LuaTeX
+          category: Package xcolor
+          text: Model `wave' substituted by `hsb'
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\xcolor\xcolor.sty'
+            range:
+              start: 1371
+              end: 1371
+          log:
+            file: tutorial6.log
+            range:
+              start: 243
+              end: 243
+        - name: LuaTeX
+          severity: info
+          text: pgfcore 2019/08/03 v3.1.4b (3.1.4b)
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\generic\pgf\basiclayer\pgfcore.code.tex
+          log:
+            file: tutorial6.log
+            range:
+              start: 245
+              end: 245
+        - name: LuaTeX
+          severity: info
+          text: xxcolor 2003/10/24 ver 0.1
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\pgf\utilities\xxcolor.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 358
+              end: 358
+        - name: LuaTeX
+          severity: info
+          text: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\generic\oberdiek\atbegshi.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 362
+              end: 362
+        - name: LuaTeX
+          severity: info
+          text: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\generic\oberdiek\infwarerr.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 364
+              end: 364
+        - name: LuaTeX
+          severity: info
+          text: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\generic\oberdiek\ltxcmds.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 366
+              end: 366
+        - name: LuaTeX
+          severity: info
+          text: hyperref 2019/09/28 v7.00a Hypertext links for LaTeX
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\hyperref\hyperref.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 368
+              end: 368
+        - name: LuaTeX
+          severity: info
+          text: >-
+            hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref
+            (HO)(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\generic\oberdiek\hobsub-hyperref.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 370
+              end: 371
+        - name: LuaTeX
+          severity: info
+          text: 'hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)'
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\generic\oberdiek\hobsub-hyperref.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 372
+              end: 372
+        - name: LuaTeX
+          severity: info
+          text: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\generic\oberdiek\hobsub-hyperref.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 373
+              end: 373
+        - severity: info
+          name: LuaTeX
+          category: Package hobsub
+          text: Skipping package `infwarerr' (already loaded).
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\generic\oberdiek\hobsub-hyperref.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 374
+              end: 374
+        - severity: info
+          name: LuaTeX
+          category: Package hobsub
+          text: Skipping package `ltxcmds' (already loaded).
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\generic\oberdiek\hobsub-hyperref.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 375
+              end: 375
+        - name: LuaTeX
+          severity: info
+          text: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\generic\oberdiek\hobsub-hyperref.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 376
+              end: 376
+        - severity: info
+          name: LuaTeX
+          category: Package ifluatex
+          text: LuaTeX detected.
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\generic\oberdiek\hobsub-hyperref.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 377
+              end: 377
+        - severity: info
+          name: LuaTeX
+          category: Package hobsub
+          text: Skipping package `ifvtex' (already loaded).
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\generic\oberdiek\hobsub-hyperref.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 378
+              end: 378
+        - name: LuaTeX
+          severity: info
+          text: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\generic\oberdiek\hobsub-hyperref.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 379
+              end: 379
+        - severity: info
+          name: LuaTeX
+          category: Package hobsub
+          text: Skipping package `ifpdf' (already loaded).
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\generic\oberdiek\hobsub-hyperref.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 380
+              end: 380
+        - name: LuaTeX
+          severity: info
+          text: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\generic\oberdiek\hobsub-hyperref.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 381
+              end: 381
+        - name: LuaTeX
+          severity: info
+          text: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\generic\oberdiek\hobsub-hyperref.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 382
+              end: 382
+        - name: LuaTeX
+          severity: info
+          text: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\generic\oberdiek\hobsub-hyperref.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 383
+              end: 383
+        - name: LuaTeX
+          severity: info
+          text: luatex-loader 2019/07/25 v0.7 Lua module loader (HO)
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\generic\oberdiek\hobsub-hyperref.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 384
+              end: 384
+        - name: LuaTeX
+          severity: info
+          text: >-
+            pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX
+            (HO)
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\generic\oberdiek\hobsub-hyperref.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 386
+              end: 386
+        - severity: info
+          name: LuaTeX
+          category: Package pdftexcmds
+          text: \pdf@primitive is available.
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\generic\oberdiek\hobsub-hyperref.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 388
+              end: 388
+        - severity: info
+          name: LuaTeX
+          category: Package pdftexcmds
+          text: \pdf@ifprimitive is available.
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\generic\oberdiek\hobsub-hyperref.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 389
+              end: 389
+        - severity: info
+          name: LuaTeX
+          category: Package pdftexcmds
+          text: \pdfdraftmode found.
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\generic\oberdiek\hobsub-hyperref.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 390
+              end: 390
+        - name: LuaTeX
+          severity: info
+          text: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\generic\oberdiek\hobsub-hyperref.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 392
+              end: 392
+        - name: LuaTeX
+          severity: info
+          text: >-
+            bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers
+            (HO)
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\generic\oberdiek\hobsub-hyperref.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 393
+              end: 393
+        - name: LuaTeX
+          severity: info
+          text: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\generic\oberdiek\hobsub-hyperref.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 395
+              end: 395
+        - name: LuaTeX
+          severity: info
+          text: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\generic\oberdiek\hobsub-hyperref.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 396
+              end: 396
+        - severity: info
+          name: LuaTeX
+          category: Package hobsub
+          text: Skipping package `hobsub' (already loaded).
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\hyperref\hyperref.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 398
+              end: 398
+        - name: LuaTeX
+          severity: info
+          text: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\hyperref\hyperref.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 399
+              end: 399
+        - name: LuaTeX
+          severity: info
+          text: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\hyperref\hyperref.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 400
+              end: 400
+        - name: LuaTeX
+          severity: info
+          text: xcolor-patch 2016/05/16 xcolor patch
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\hyperref\hyperref.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 401
+              end: 401
+        - name: LuaTeX
+          severity: info
+          text: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\hyperref\hyperref.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 402
+              end: 402
+        - severity: info
+          name: LuaTeX
+          category: Package hobsub
+          text: Skipping package `atbegshi' (already loaded).
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\hyperref\hyperref.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 403
+              end: 403
+        - name: LuaTeX
+          severity: info
+          text: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\hyperref\hyperref.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 404
+              end: 404
+        - name: LuaTeX
+          severity: info
+          text: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\hyperref\hyperref.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 405
+              end: 405
+        - name: LuaTeX
+          severity: info
+          text: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\oberdiek\auxhook.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 407
+              end: 407
+        - name: LuaTeX
+          severity: info
+          text: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\oberdiek\kvoptions.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 409
+              end: 409
+        - severity: info
+          name: LuaTeX
+          category: Package hyperref
+          text: Option `bookmarks' set `true'
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\beamer\beamer.cls'
+            range:
+              start: 4414
+              end: 4414
+          log:
+            file: tutorial6.log
+            range:
+              start: 421
+              end: 421
+        - severity: info
+          name: LuaTeX
+          category: Package hyperref
+          text: Option `bookmarksopen' set `true'
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\beamer\beamer.cls'
+            range:
+              start: 4414
+              end: 4414
+          log:
+            file: tutorial6.log
+            range:
+              start: 422
+              end: 422
+        - severity: info
+          name: LuaTeX
+          category: Package hyperref
+          text: Option `implicit' set `false'
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\beamer\beamer.cls'
+            range:
+              start: 4414
+              end: 4414
+          log:
+            file: tutorial6.log
+            range:
+              start: 423
+              end: 423
+        - severity: info
+          name: LuaTeX
+          category: Package hyperref
+          text: Hyper figures OFF
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\beamer\beamer.cls'
+            range:
+              start: 4540
+              end: 4540
+          log:
+            file: tutorial6.log
+            range:
+              start: 424
+              end: 424
+        - severity: info
+          name: LuaTeX
+          category: Package hyperref
+          text: Link nesting OFF
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\beamer\beamer.cls'
+            range:
+              start: 4545
+              end: 4545
+          log:
+            file: tutorial6.log
+            range:
+              start: 425
+              end: 425
+        - severity: info
+          name: LuaTeX
+          category: Package hyperref
+          text: Hyper index ON
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\beamer\beamer.cls'
+            range:
+              start: 4548
+              end: 4548
+          log:
+            file: tutorial6.log
+            range:
+              start: 426
+              end: 426
+        - severity: info
+          name: LuaTeX
+          category: Package hyperref
+          text: Plain pages OFF
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\beamer\beamer.cls'
+            range:
+              start: 4555
+              end: 4555
+          log:
+            file: tutorial6.log
+            range:
+              start: 427
+              end: 427
+        - severity: info
+          name: LuaTeX
+          category: Package hyperref
+          text: Backreferencing OFF
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\beamer\beamer.cls'
+            range:
+              start: 4560
+              end: 4560
+          log:
+            file: tutorial6.log
+            range:
+              start: 428
+              end: 428
+        - severity: info
+          name: LuaTeX
+          category: Package hyperref
+          text: Implicit mode OFF; no redefinition of LaTeX internals.
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\beamer\beamer.cls'
+          log:
+            file: tutorial6.log
+            range:
+              start: 429
+              end: 429
+        - severity: info
+          name: LuaTeX
+          category: Package hyperref
+          text: Bookmarks ON
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\beamer\beamer.cls'
+            range:
+              start: 4793
+              end: 4793
+          log:
+            file: tutorial6.log
+            range:
+              start: 430
+              end: 430
+        - name: LuaTeX
+          severity: info
+          text: 'url 2013/09/16 ver 3.4 Verb mode for urls, etc.'
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\url\url.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 434
+              end: 434
+        - severity: info
+          name: LuaTeX
+          category: LaTeX
+          text: Redefining \url
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\beamer\beamer.cls'
+            range:
+              start: 5152
+              end: 5152
+          log:
+            file: tutorial6.log
+            range:
+              start: 436
+              end: 436
+        - severity: info
+          name: LuaTeX
+          category: Package hyperref
+          text: Hyper figures OFF
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\beamer\beamer.cls'
+            range:
+              start: 6423
+              end: 6423
+          log:
+            file: tutorial6.log
+            range:
+              start: 441
+              end: 441
+        - severity: info
+          name: LuaTeX
+          category: Package hyperref
+          text: Link nesting OFF
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\beamer\beamer.cls'
+            range:
+              start: 6428
+              end: 6428
+          log:
+            file: tutorial6.log
+            range:
+              start: 442
+              end: 442
+        - severity: info
+          name: LuaTeX
+          category: Package hyperref
+          text: Hyper index ON
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\beamer\beamer.cls'
+            range:
+              start: 6431
+              end: 6431
+          log:
+            file: tutorial6.log
+            range:
+              start: 443
+              end: 443
+        - severity: info
+          name: LuaTeX
+          category: Package hyperref
+          text: backreferencing OFF
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\beamer\beamer.cls'
+            range:
+              start: 6438
+              end: 6438
+          log:
+            file: tutorial6.log
+            range:
+              start: 444
+              end: 444
+        - severity: info
+          name: LuaTeX
+          category: Package hyperref
+          text: Link coloring OFF
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\beamer\beamer.cls'
+            range:
+              start: 6443
+              end: 6443
+          log:
+            file: tutorial6.log
+            range:
+              start: 445
+              end: 445
+        - severity: info
+          name: LuaTeX
+          category: Package hyperref
+          text: Link coloring with OCG OFF
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\beamer\beamer.cls'
+            range:
+              start: 6448
+              end: 6448
+          log:
+            file: tutorial6.log
+            range:
+              start: 446
+              end: 446
+        - severity: info
+          name: LuaTeX
+          category: Package hyperref
+          text: PDF/A mode OFF
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\beamer\beamer.cls'
+            range:
+              start: 6453
+              end: 6453
+          log:
+            file: tutorial6.log
+            range:
+              start: 447
+              end: 447
+        - severity: info
+          name: LuaTeX
+          category: LaTeX
+          text: Redefining \ref
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\beamer\beamer.cls'
+            range:
+              start: 6493
+              end: 6493
+          log:
+            file: tutorial6.log
+            range:
+              start: 448
+              end: 448
+        - severity: info
+          name: LuaTeX
+          category: LaTeX
+          text: Redefining \pageref
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\beamer\beamer.cls'
+            range:
+              start: 6497
+              end: 6497
+          log:
+            file: tutorial6.log
+            range:
+              start: 449
+              end: 449
+        - severity: info
+          name: LuaTeX
+          category: Package hyperref
+          text: 'Driver (autodetected): hluatex.'
+          source:
+            file: tutorial6.tex
+          log:
+            file: tutorial6.log
+            range:
+              start: 455
+              end: 455
+        - name: LuaTeX
+          severity: info
+          text: >-
+            stringenc 2016/05/16 v1.11 Convert strings between diff. encodings
+            (HO)
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\generic\oberdiek\stringenc.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 461
+              end: 461
+        - name: LuaTeX
+          severity: info
+          text: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\oberdiek\rerunfilecheck.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 467
+              end: 467
+        - severity: info
+          name: LuaTeX
+          category: Package uniquecounter
+          text: New unique counter `rerunfilecheck' on input line 28
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\oberdiek\rerunfilecheck.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 468
+              end: 468
+        - name: LuaTeX
+          severity: info
+          text: amssymb 2013/01/14 v3.01 AMS font symbols
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\amsfonts\amssymb.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 474
+              end: 474
+        - name: LuaTeX
+          severity: info
+          text: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\amsfonts\amsfonts.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 476
+              end: 476
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: Redeclaring math symbol \hbar
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\amsfonts\amsfonts.sty'
+            range:
+              start: 98
+              end: 98
+          log:
+            file: tutorial6.log
+            range:
+              start: 480
+              end: 480
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: >-
+            Overwriting math alphabet `\mathfrak' in version `bold' U/euf/m/n
+            --> U/euf/b/n.
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\amsfonts\amsfonts.sty'
+            range:
+              start: 106
+              end: 106
+          log:
+            file: tutorial6.log
+            range:
+              start: 481
+              end: 482
+        - name: LuaTeX
+          severity: info
+          text: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\translator\translator.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 485
+              end: 485
+        - name: LuaTeX
+          severity: info
+          text: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\tools\enumerate.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 545
+              end: 545
+        - name: LuaTeX
+          severity: info
+          text: amsmath 2019/04/01 v2.17c AMS math features
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\amsmath\amsmath.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 556
+              end: 556
+        - name: LuaTeX
+          severity: info
+          text: amstext 2000/06/29 v2.01 AMS text
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\amsmath\amstext.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 560
+              end: 560
+        - name: LuaTeX
+          severity: info
+          text: amsbsy 1999/11/29 v1.2d Bold Symbols
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\amsmath\amsbsy.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 566
+              end: 566
+        - name: LuaTeX
+          severity: info
+          text: amsopn 2016/03/08 v2.02 operator names
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\amsmath\amsopn.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 569
+              end: 569
+        - severity: info
+          name: LuaTeX
+          category: LaTeX
+          text: Redefining \frac
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\amsmath\amsmath.sty'
+            range:
+              start: 227
+              end: 227
+          log:
+            file: tutorial6.log
+            range:
+              start: 572
+              end: 572
+        - severity: info
+          name: LuaTeX
+          category: LaTeX
+          text: Redefining \overline
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\amsmath\amsmath.sty'
+            range:
+              start: 389
+              end: 389
+          log:
+            file: tutorial6.log
+            range:
+              start: 575
+              end: 575
+        - severity: info
+          name: LuaTeX
+          category: LaTeX
+          text: Redefining \ldots
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\amsmath\amsmath.sty'
+            range:
+              start: 486
+              end: 486
+          log:
+            file: tutorial6.log
+            range:
+              start: 578
+              end: 578
+        - severity: info
+          name: LuaTeX
+          category: LaTeX
+          text: Redefining \dots
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\amsmath\amsmath.sty'
+            range:
+              start: 489
+              end: 489
+          log:
+            file: tutorial6.log
+            range:
+              start: 579
+              end: 579
+        - severity: info
+          name: LuaTeX
+          category: LaTeX
+          text: Redefining \cdots
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\amsmath\amsmath.sty'
+            range:
+              start: 610
+              end: 610
+          log:
+            file: tutorial6.log
+            range:
+              start: 580
+              end: 580
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: Redeclaring font encoding OML
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\amsmath\amsmath.sty'
+            range:
+              start: 733
+              end: 733
+          log:
+            file: tutorial6.log
+            range:
+              start: 584
+              end: 584
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: Redeclaring font encoding OMS
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\amsmath\amsmath.sty'
+            range:
+              start: 734
+              end: 734
+          log:
+            file: tutorial6.log
+            range:
+              start: 585
+              end: 585
+        - severity: info
+          name: LuaTeX
+          category: LaTeX
+          text: 'Redefining \['
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\amsmath\amsmath.sty'
+            range:
+              start: 2855
+              end: 2855
+          log:
+            file: tutorial6.log
+            range:
+              start: 606
+              end: 606
+        - severity: info
+          name: LuaTeX
+          category: LaTeX
+          text: 'Redefining \]'
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\amsmath\amsmath.sty'
+            range:
+              start: 2856
+              end: 2856
+          log:
+            file: tutorial6.log
+            range:
+              start: 607
+              end: 607
+        - name: LuaTeX
+          severity: info
+          text: amsthm 2017/10/31 v2.20.4
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\amscls\amsthm.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 609
+              end: 609
+        - name: LuaTeX
+          severity: info
+          text: beamerthememetropolis 2017/01/23 v1.2 Metropolis Beamer theme
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\latex\beamertheme-metropolis\beamerthememetropolis.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 631
+              end: 631
+        - name: LuaTeX
+          severity: info
+          text: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\pgfopts\pgfopts.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 633
+              end: 633
+        - name: LuaTeX
+          severity: info
+          text: beamerinnerthememetropolis 2017/01/23 Metropolis inner theme
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\latex\beamertheme-metropolis\beamerinnerthememetropolis.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 641
+              end: 641
+        - name: LuaTeX
+          severity: info
+          text: 'calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)'
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\tools\calc.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 643
+              end: 643
+        - severity: info
+          name: LuaTeX
+          category: LaTeX
+          text: Redefining \setlength
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\tools\calc.sty'
+            range:
+              start: 80
+              end: 80
+          log:
+            file: tutorial6.log
+            range:
+              start: 650
+              end: 650
+        - severity: info
+          name: LuaTeX
+          category: LaTeX
+          text: Redefining \addtolength
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\tools\calc.sty'
+            range:
+              start: 81
+              end: 81
+          log:
+            file: tutorial6.log
+            range:
+              start: 651
+              end: 651
+        - name: LuaTeX
+          severity: info
+          text: pgf 2019/08/03 v3.1.4b (3.1.4b)
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\pgf\basiclayer\pgf.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 656
+              end: 656
+        - name: LuaTeX
+          severity: info
+          text: pgfcomp-version-0-65 2019/08/03 v3.1.4b (3.1.4b)
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\latex\pgf\compatibility\pgfcomp-version-0-65.st
+          log:
+            file: tutorial6.log
+            range:
+              start: 665
+              end: 665
+        - name: LuaTeX
+          severity: info
+          text: pgfcomp-version-1-18 2019/08/03 v3.1.4b (3.1.4b)
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\latex\pgf\compatibility\pgfcomp-version-1-18.st
+          log:
+            file: tutorial6.log
+            range:
+              start: 671
+              end: 671
+        - name: LuaTeX
+          severity: info
+          text: pgffor 2019/08/03 v3.1.4b (3.1.4b)
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\generic\pgf\utilities\pgffor.code.tex
+          log:
+            file: tutorial6.log
+            range:
+              start: 676
+              end: 676
+        - name: LuaTeX
+          severity: info
+          text: beamerouterthememetropolis 2017/01/23 Metropolis outer theme
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\latex\beamertheme-metropolis\beamerouterthememetropolis.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 728
+              end: 728
+        - name: LuaTeX
+          severity: info
+          text: beamercolorthememetropolis 2017/01/23 Metropolis color theme
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\latex\beamertheme-metropolis\beamercolorthememetropolis.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 735
+              end: 735
+        - name: LuaTeX
+          severity: info
+          text: beamerfontthememetropolis 2017/01/23 Metropolis font theme
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\latex\beamertheme-metropolis\beamerfontthememetropolis.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 739
+              end: 739
+        - name: LuaTeX
+          severity: info
+          text: expl3 2019-10-14 L3 programming layer (loader)
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\l3kernel\expl3.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 743
+              end: 743
+        - name: LuaTeX
+          severity: info
+          text: expl3 2019-10-14 L3 programming layer (code)
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\l3kernel\expl3-code.tex'
+          log:
+            file: tutorial6.log
+            range:
+              start: 745
+              end: 745
+        - name: LuaTeX
+          severity: info
+          text: xparse 2019-10-11 L3 Experimental document command parser
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\l3packages\xparse\xparse.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 899
+              end: 899
+        - name: LuaTeX
+          severity: info
+          text: fontspec 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTeX
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\fontspec\fontspec.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 905
+              end: 905
+        - name: LuaTeX
+          severity: info
+          text: >-
+            fontspec-luatex 2019/03/15 v2.7c Font selection for XeLaTeX and
+            LuaLaTe
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\fontspec\fontspec-luatex.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 908
+              end: 908
+        - name: LuaTeX
+          severity: info
+          text: fontenc 2018/08/11 v2.0j Standard LaTeX package
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\base\fontenc.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 925
+              end: 925
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: Redeclaring font encoding TU
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\base\tuenc.def'
+            range:
+              start: 82
+              end: 82
+          log:
+            file: tutorial6.log
+            range:
+              start: 928
+              end: 928
+        - severity: info
+          name: LuaTeX
+          category: LaTeX
+          text: Redefining \itshape
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\fontspec\fontspec-luatex.sty'
+            range:
+              start: 3783
+              end: 3783
+          log:
+            file: tutorial6.log
+            range:
+              start: 930
+              end: 930
+        - severity: info
+          name: LuaTeX
+          category: LaTeX
+          text: Redefining \slshape
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\fontspec\fontspec-luatex.sty'
+            range:
+              start: 3788
+              end: 3788
+          log:
+            file: tutorial6.log
+            range:
+              start: 931
+              end: 931
+        - severity: info
+          name: LuaTeX
+          category: LaTeX
+          text: Redefining \scshape
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\fontspec\fontspec-luatex.sty'
+            range:
+              start: 3793
+              end: 3793
+          log:
+            file: tutorial6.log
+            range:
+              start: 932
+              end: 932
+        - severity: info
+          name: LuaTeX
+          category: LaTeX
+          text: Redefining \upshape
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\fontspec\fontspec-luatex.sty'
+            range:
+              start: 3798
+              end: 3798
+          log:
+            file: tutorial6.log
+            range:
+              start: 933
+              end: 933
+        - severity: info
+          name: LuaTeX
+          category: LaTeX
+          text: Redefining \em
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\fontspec\fontspec-luatex.sty'
+            range:
+              start: 3828
+              end: 3828
+          log:
+            file: tutorial6.log
+            range:
+              start: 934
+              end: 934
+        - severity: info
+          name: LuaTeX
+          category: LaTeX
+          text: Redefining \emph
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\fontspec\fontspec-luatex.sty'
+            range:
+              start: 3853
+              end: 3853
+          log:
+            file: tutorial6.log
+            range:
+              start: 935
+              end: 935
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: >-
+            Font shape `TU/lmss/m/it' in size <10> not available Font shape
+            `TU/lmss/m/sl' tried instead.
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\fontspec\fontspec-luatex.sty'
+            range:
+              start: 3903
+              end: 3903
+          log:
+            file: tutorial6.log
+            range:
+              start: 936
+              end: 937
+        - severity: warning
+          name: LuaTeX
+          category: Package beamerthememetropolis
+          text: Could not find Fira Sans fonts on input l
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\latex\beamertheme-metropolis\beamerfontthememetropolis.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 951
+              end: 951
+        - severity: warning
+          name: LuaTeX
+          category: Package beamerthememetropolis
+          text: Could not find Fira Mono fonts on input l
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\latex\beamertheme-metropolis\beamerfontthememetropolis.sty
+          log:
+            file: tutorial6.log
+            range:
+              start: 959
+              end: 959
+        - name: LuaTeX
+          severity: info
+          text: booktabs 2019/10/08 v1.6180339 publication quality tables
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\booktabs\booktabs.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 965
+              end: 965
+        - name: LuaTeX
+          severity: info
+          text: ccicons 2017/10/30 v1.6 LaTeX support for Creative Commons icons
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\ccicons\ccicons.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 984
+              end: 984
+        - name: LuaTeX
+          severity: info
+          text: xkeyval 2014/12/03 v2.7a package option processing (HA)
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\xkeyval\xkeyval.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 986
+              end: 986
+        - name: LuaTeX
+          severity: info
+          text: pgfplots 2018/03/28 v1.16 Data Visualization (1.16)
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\pgfplots\pgfplots.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 996
+              end: 996
+        - name: LuaTeX
+          severity: info
+          text: ulem 2012/05/18
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\generic\ulem\ulem.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 1126
+              end: 1126
+        - name: LuaTeX
+          severity: info
+          text: 'xspace 2014/10/28 v1.13 Space after command names (DPC,MH)'
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\tools\xspace.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 1129
+              end: 1129
+        - name: LuaTeX
+          severity: info
+          text: >-
+            pgfplotsthemetol 2017/01/23 PGFplots colors based on Paul Tol's SRON
+            te
+          source:
+            file: >-
+              c:\texlive\2019\texmf-dist\tex\latex\beamertheme-metropolis\pgfplotsthemetol.s
+          log:
+            file: tutorial6.log
+            range:
+              start: 1133
+              end: 1133
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: Checking defaults for OML/cmm/m/it ... okay
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1140
+              end: 1141
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: Checking defaults for T1/cmr/m/n ... okay
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1142
+              end: 1143
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: Checking defaults for OT1/cmr/m/n ... okay
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1144
+              end: 1145
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: Checking defaults for OMS/cmsy/m/n ... okay
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1146
+              end: 1147
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: Checking defaults for TU/lmr/m/n ... okay
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1148
+              end: 1149
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: Checking defaults for OMX/cmex/m/n ... okay
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1150
+              end: 1151
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: Checking defaults for U/cmr/m/n ... okay
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1152
+              end: 1153
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: Checking defaults for PD1/pdf/m/n ... okay
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1154
+              end: 1155
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: Checking defaults for PU/pdf/m/n ... okay
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1156
+              end: 1157
+        - name: LuaTeX
+          severity: info
+          text: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\oberdiek\epstopdf-base.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 1206
+              end: 1206
+        - name: LuaTeX
+          severity: info
+          text: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\oberdiek\grfext.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 1208
+              end: 1208
+        - severity: info
+          name: LuaTeX
+          category: Package epstopdf-base
+          text: Redefining graphics rule for `.eps' on input line 43
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\oberdiek\epstopdf-base.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 1210
+              end: 1210
+        - severity: info
+          name: LuaTeX
+          category: Package grfext
+          text: >-
+            Graphics extension search list:
+            [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG
+            \AppendGraphicsExtensions.
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\oberdiek\epstopdf-base.sty'
+            range:
+              start: 456
+              end: 456
+          log:
+            file: tutorial6.log
+            range:
+              start: 1212
+              end: 1215
+        - severity: info
+          name: LuaTeX
+          category: Package hyperref
+          text: Link coloring OFF
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1221
+              end: 1221
+        - name: LuaTeX
+          severity: info
+          text: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\latex\hyperref\nameref.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 1223
+              end: 1223
+        - name: LuaTeX
+          severity: info
+          text: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+          source:
+            file: 'c:\texlive\2019\texmf-dist\tex\generic\oberdiek\gettitlestring.sty'
+          log:
+            file: tutorial6.log
+            range:
+              start: 1225
+              end: 1225
+        - severity: info
+          name: LuaTeX
+          category: LaTeX
+          text: Redefining \ref
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1229
+              end: 1229
+        - severity: info
+          name: LuaTeX
+          category: LaTeX
+          text: Redefining \pageref
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1230
+              end: 1230
+        - severity: info
+          name: LuaTeX
+          category: LaTeX
+          text: Redefining \nameref
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1231
+              end: 1231
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: >-
+            Overwriting symbol font `operators' in version `normal' OT1/cmr/m/n
+            --> OT1/cmss/m/n.
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1240
+              end: 1241
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: >-
+            Overwriting symbol font `operators' in version `bold' OT1/cmr/bx/n
+            --> OT1/cmss/bx/n.
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1242
+              end: 1243
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: >-
+            Overwriting math alphabet `\mathrm' in version `normal' OT1/cmss/m/n
+            --> TU/lmr/m/n.
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1246
+              end: 1247
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: Redeclaring math alphabet \mathbf
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1248
+              end: 1248
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: >-
+            Overwriting math alphabet `\mathbf' in version `normal' OT1/cmr/bx/n
+            --> TU/lmss/bx/n.
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1249
+              end: 1250
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: >-
+            Overwriting math alphabet `\mathbf' in version `bold' OT1/cmr/bx/n
+            --> TU/lmss/bx/n.
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1251
+              end: 1252
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: Redeclaring math alphabet \mathsf
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1253
+              end: 1253
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: >-
+            Overwriting math alphabet `\mathsf' in version `normal' OT1/cmss/m/n
+            --> TU/lmss/m/n.
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1254
+              end: 1255
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: >-
+            Overwriting math alphabet `\mathsf' in version `bold' OT1/cmss/bx/n
+            --> TU/lmss/m/n.
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1256
+              end: 1257
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: Redeclaring math alphabet \mathit
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1258
+              end: 1258
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: >-
+            Overwriting math alphabet `\mathit' in version `normal' OT1/cmr/m/it
+            --> TU/lmss/m/it.
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1259
+              end: 1260
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: >-
+            Overwriting math alphabet `\mathit' in version `bold' OT1/cmr/bx/it
+            --> TU/lmss/m/it.
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1261
+              end: 1262
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: Redeclaring math alphabet \mathtt
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1263
+              end: 1263
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: >-
+            Overwriting math alphabet `\mathtt' in version `normal' OT1/cmtt/m/n
+            --> TU/lmtt/m/n.
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1264
+              end: 1265
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: >-
+            Overwriting math alphabet `\mathtt' in version `bold' OT1/cmtt/m/n
+            --> TU/lmtt/m/n.
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1266
+              end: 1267
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: >-
+            Overwriting symbol font `numbers' in version `bold' TU/lmss/m/n -->
+            TU/lmss/bx/n.
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1268
+              end: 1269
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: >-
+            Overwriting symbol font `pureletters' in version `bold' TU/lmss/m/it
+            --> TU/lmss/bx/it.
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1270
+              end: 1271
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: >-
+            Overwriting math alphabet `\mathrm' in version `bold' OT1/cmss/bx/n
+            --> TU/lmr/bx/n.
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1272
+              end: 1273
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: >-
+            Overwriting math alphabet `\mathbf' in version `bold' TU/lmss/bx/n
+            --> TU/lmss/bx/n.
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1274
+              end: 1275
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: >-
+            Overwriting math alphabet `\mathsf' in version `bold' TU/lmss/m/n
+            --> TU/lmss/bx/n.
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1276
+              end: 1277
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: >-
+            Overwriting math alphabet `\mathit' in version `bold' TU/lmss/m/it
+            --> TU/lmss/bx/it.
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1278
+              end: 1279
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: >-
+            Overwriting math alphabet `\mathtt' in version `bold' TU/lmtt/m/n
+            --> TU/lmtt/bx/n.
+          source:
+            file: tutorial6.tex
+            range:
+              start: 26
+              end: 26
+          log:
+            file: tutorial6.log
+            range:
+              start: 1280
+              end: 1281
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: Trying to load font information for U+msa
+          source:
+            file: tutorial6.tex
+            range:
+              start: 28
+              end: 28
+          log:
+            file: tutorial6.log
+            range:
+              start: 1313
+              end: 1313
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: Trying to load font information for U+msb
+          source:
+            file: tutorial6.tex
+            range:
+              start: 28
+              end: 28
+          log:
+            file: tutorial6.log
+            range:
+              start: 1317
+              end: 1317
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: >-
+            Font shape `TU/lmss/m/it' in size <7> not available Font shape
+            `TU/lmss/m/sl' tried instead.
+          source:
+            file: tutorial6.tex
+            range:
+              start: 28
+              end: 28
+          log:
+            file: tutorial6.log
+            range:
+              start: 1321
+              end: 1322
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: >-
+            Font shape `TU/lmss/m/it' in size <5> not available Font shape
+            `TU/lmss/m/sl' tried instead.
+          source:
+            file: tutorial6.tex
+            range:
+              start: 28
+              end: 28
+          log:
+            file: tutorial6.log
+            range:
+              start: 1323
+              end: 1324
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: >-
+            Font shape `TU/lmss/m/it' in size <9> not available Font shape
+            `TU/lmss/m/sl' tried instead.
+          source:
+            file: tutorial6.tex
+            range:
+              start: 159
+              end: 159
+          log:
+            file: tutorial6.log
+            range:
+              start: 1356
+              end: 1357
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: >-
+            Font shape `TU/lmss/m/it' in size <6> not available Font shape
+            `TU/lmss/m/sl' tried instead.
+          source:
+            file: tutorial6.tex
+            range:
+              start: 159
+              end: 159
+          log:
+            file: tutorial6.log
+            range:
+              start: 1358
+              end: 1359
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: >-
+            Font shape `TU/lmss/m/it' in size <12> not available Font shape
+            `TU/lmss/m/sl' tried instead.
+          source:
+            file: tutorial6.tex
+            range:
+              start: 226
+              end: 226
+          log:
+            file: tutorial6.log
+            range:
+              start: 1478
+              end: 1479
+        - severity: info
+          name: LuaTeX
+          category: LaTeX Font
+          text: >-
+            Font shape `TU/lmss/m/it' in size <8> not available Font shape
+            `TU/lmss/m/sl' tried instead.
+          source:
+            file: tutorial6.tex
+            range:
+              start: 226
+              end: 226
+          log:
+            file: tutorial6.log
+            range:
+              start: 1480
+              end: 1481
+        - severity: info
+          name: LuaTeX
+          category: Package atveryend
+          text: Empty hook `BeforeClearDocument'
+          source:
+            file: tutorial6.tex
+            range:
+              start: 290
+              end: 290
+          log:
+            file: tutorial6.log
+            range:
+              start: 1558
+              end: 1558
+        - severity: info
+          name: LuaTeX
+          category: Package atveryend
+          text: Empty hook `AfterLastShipout'
+          source:
+            file: tutorial6.tex
+            range:
+              start: 290
+              end: 290
+          log:
+            file: tutorial6.log
+            range:
+              start: 1559
+              end: 1559
+        - severity: info
+          name: LuaTeX
+          category: Package atveryend
+          text: Executing hook `AtVeryEndDocument'
+          source:
+            file: tutorial6.tex
+            range:
+              start: 290
+              end: 290
+          log:
+            file: tutorial6.log
+            range:
+              start: 1563
+              end: 1563
+        - severity: info
+          name: LuaTeX
+          category: Package atveryend
+          text: Executing hook `AtEndAfterFileList'
+          source:
+            file: tutorial6.tex
+            range:
+              start: 290
+              end: 290
+          log:
+            file: tutorial6.log
+            range:
+              start: 1564
+              end: 1564
+        - severity: warning
+          name: LuaTeX
+          category: Package rerunfilecheck
+          text: >-
+            File `tutorial6.out' has changed. Rerun to get outlines right or use
+            package `bookmark'.
+          source:
+            file: tutorial6.tex
+          log:
+            file: tutorial6.log
+            range:
+              start: 1566
+              end: 1568
+        - severity: info
+          name: LuaTeX
+          category: Package rerunfilecheck
+          text: >-
+            Checksums for `tutorial6.out': Before:
+            28B89DE479B55BCA7276368877E980CD;231 After:
+            F959E5BDF8401458FA9489F83EA8CEC0;648.
+          source:
+            file: tutorial6.tex
+          log:
+            file: tutorial6.log
+            range:
+              start: 1570
+              end: 1572
+      inputs: []
+      outputs:
+        - tutorial6.pdf
+      calls: []
+    type: ParsedLaTeXLog
+  tutorial6.log:
+    timeStamp: 2019-10-16T23:57:47.514Z
+    jobNames: []
+    hash: 8Ew19UXPuA2yDaKJ2ZjNzLz6oUyuVkWRyCq/FT0wGoQ=
+    type: LaTeXLog
+    subType: LuaTeX
+  tutorial6.pdf:
+    timeStamp: 2019-10-16T23:57:47.512Z
+    jobNames: []
+    hash: 4HLazcKn08IExt/k77hLFnGZGEDcSWKoBE2JaFfHn+0=
+    type: PortableDocumentFormat
+rules:
+  - name: ApplyOptions
+    command: load
+    phase: initialize
+    parameters: []
+    inputs:
+      - file: dicy.yaml-ParsedYAML
+        type: default
+      - file: tutorial6.yaml-ParsedYAML
+        type: default
+      - file: tutorial6.tex-ParsedLaTeXMagic
+        type: default
+      - file: dicy-instance.yaml-ParsedYAML
+        type: default
+      - file: 'C:\Users\andrs\AppData\Roaming\dicy\config.yaml-ParsedYAML'
+        type: default
+    outputs: []
+  - name: LoadAndValidateCache
+    command: load
+    phase: initialize
+    parameters: []
+    inputs: []
+    outputs: []
+  - name: Migrate
+    command: load
+    phase: initialize
+    parameters: []
+    inputs: []
+    outputs: []
+  - name: ApplyOptions
+    command: load
+    phase: execute
+    parameters: []
+    inputs:
+      - file: dicy.yaml-ParsedYAML
+        type: default
+      - file: tutorial6.yaml-ParsedYAML
+        type: default
+      - file: tutorial6.tex-ParsedLaTeXMagic
+        type: default
+      - file: dicy-instance.yaml-ParsedYAML
+        type: default
+      - file: 'C:\Users\andrs\AppData\Roaming\dicy\config.yaml-ParsedYAML'
+        type: default
+    outputs: []
+  - name: ParseOptionsFile
+    command: load
+    phase: execute
+    parameters: []
+    inputs:
+      - file: 'C:\Users\andrs\AppData\Roaming\dicy\config.yaml'
+        type: default
+    outputs:
+      - file: 'C:\Users\andrs\AppData\Roaming\dicy\config.yaml-ParsedYAML'
+        type: default
+  - name: ParseLaTeXMagic
+    command: load
+    phase: execute
+    parameters:
+      - tutorial6.tex
+    inputs:
+      - file: tutorial6.tex
+        type: default
+    outputs:
+      - file: tutorial6.tex-ParsedLaTeXMagic
+        type: default
+  - name: AssignJobNames
+    command: load
+    phase: finalize
+    parameters: []
+    inputs: []
+    outputs: []
+  - name: FindLogFiles
+    command: build
+    phase: initialize
+    parameters: []
+    inputs: []
+    outputs: []
+  - name: LaTeX
+    command: build
+    phase: execute
+    parameters:
+      - tutorial6.tex
+    inputs:
+      - file: tutorial6.tex
+        type: default
+      - file: tutorial6.fls-ParsedFileListing
+        type: default
+      - file: tutorial6.log-ParsedLaTeXLog
+        type: default
+    outputs:
+      - file: tutorial6.pdf
+        type: default
+  - name: ParseLaTeXLog
+    command: build
+    phase: execute
+    parameters:
+      - tutorial6.log
+    inputs:
+      - file: tutorial6.log
+        type: default
+    outputs:
+      - file: tutorial6.log-ParsedLaTeXLog
+        type: default
+  - name: LogProducedTargets
+    command: build
+    phase: finalize
+    parameters: []
+    inputs: []
+    outputs: []
+  - name: CheckForMissingBuildRule
+    command: build
+    phase: finalize
+    parameters:
+      - tutorial6.tex
+    inputs:
+      - file: tutorial6.tex
+        type: default
+    outputs: []
+  - name: FindLogFiles
+    command: log
+    phase: initialize
+    parameters: []
+    inputs: []
+    outputs: []
+  - name: ReportLogMessages
+    command: log
+    phase: execute
+    parameters:
+      - tutorial6.log-ParsedLaTeXLog
+    inputs:
+      - file: tutorial6.log-ParsedLaTeXLog
+        type: default
+    outputs: []
+  - name: ParseLaTeXLog
+    command: log
+    phase: execute
+    parameters:
+      - tutorial6.log
+    inputs:
+      - file: tutorial6.log
+        type: default
+    outputs:
+      - file: tutorial6.log-ParsedLaTeXLog
+        type: default
+  - name: SaveCache
+    command: save
+    phase: execute
+    parameters: []
+    inputs: []
+    outputs: []
