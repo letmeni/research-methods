@@ -157,7 +157,7 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Lambda and Gamma](https://www.thoughtco.com/lambda-and-gamma-3026702)
 - [Calculate Gamma (by hand)](http://www.statisticshowto.com/gamma-coefficient-goodman-kruskal/)
 - [Measures of Association and Correlation in SPSS](https://subjectguides.esc.edu/c.php?g=659059&p=4626955)
-<!---
+
 ### Tutorial 8, MT
 - [Tutorial Slides (MT 8)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_8MT.pdf)
 
@@ -169,16 +169,19 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Choosing a statistical test](http://www.biostathandbook.com/testchoice.html)
 - [Tutorial: Choosing the correct statistical test](http://wise.cgu.edu/wise-tutorials/tutorial-choosing-the-correct-statistical-test/)
 
+
+
 ### Tutorial 9, MT
 - [Tutorial Slides (MT 9)](https://github.com/AndrSalvi/research-methods/raw/master/course/slides/Tutorial_9MT.pdf)
 - [Data from Fearon and Laitin](https://tinyurl.com/method-conflict)
 
 ##### Guides
-- [Advanced Video:Comparison of Independent-Samples T Test and Paired-Samples T Test using SPSS](https://www.youtube.com/watch?v=qqgiNc0G0us)
+- [Advanced Video: Comparison of Independent-Samples T Test and Paired-Samples T Test using SPSS](https://www.youtube.com/watch?v=qqgiNc0G0us)
 - [Types of T-tests](https://erc.barnard.edu/spss/t_tests)
 - [Paired Samples T-tests](https://libguides.library.kent.edu/SPSS/PairedSamplestTest)
 - [Independent Samples T-tests](https://libguides.library.kent.edu/SPSS/IndependentTTest)
 
+<!---
 
 ## Hilary Term
 
