@@ -181,7 +181,6 @@ Below I post a selection of useful links for each tutorial. If you found additio
 - [Paired Samples T-tests](https://libguides.library.kent.edu/SPSS/PairedSamplestTest)
 - [Independent Samples T-tests](https://libguides.library.kent.edu/SPSS/IndependentTTest)
 
-<!---
 
 ## Hilary Term
 
@@ -267,8 +266,6 @@ See Tutorial 4!
 - [Manifesto Research Project](https://manifesto-project.wzb.eu)
 - [Crowd-sourced text analysis](http://eprints.lse.ac.uk/62242/1/Crowd_sourced1.pdf)
 - [Tool for quantitative text analysis](https://tada-gui.shinyapps.io/tada/) (by Stefan Mueller)
-
--->
 
 
 ### Research Projects
