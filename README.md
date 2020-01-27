@@ -1,6 +1,6 @@
 # Tutorials - Research Methods for Political Science B (2020)
 
-Hello! In this github page you will find the tutorial slides and some additional materials on topics covered on tutorials from PO3110, [Research Methods for Political Science B](https://www.tcd.ie/Political_Science/undergraduate/module-outlines/js/research-methods-b/index1920.php). 
+Hello! In this github page you will find the tutorial slides and some additional materials on topics covered on  2020 HT PO3110, [Research Methods for Political Science B](https://www.tcd.ie/Political_Science/undergraduate/module-outlines/js/research-methods-b/index1920.php). 
 
 The core module material, such as lecture slides, homeworks and datasets can be found on [Blackboard](http://tcd.ie/blackboard). 
 
