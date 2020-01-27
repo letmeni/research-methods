@@ -63,7 +63,7 @@ Below I post the links to the slides I use in our tutorials and a selection of u
 
 #### Tutorial Material
 - [Tutorial Slides (HT 1 2020)](https://github.com/letmeni/research-methods/blob/master/course/slides/Tut_1_HT_2020.pdf)
-- [Data from Fearon and Laitin](https://tinyurl.com/method-conflict)
+- [Conflict Data from Fearon and Laitin](https://tinyurl.com/method-conflict)
 
 #### Guides
 - [Overview of t-tests](http://blog.minitab.com/blog/adventures-in-statistics-2/understanding-t-tests%3A-1-sample%2C-2-sample%2C-and-paired-t-tests)
