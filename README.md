@@ -21,7 +21,7 @@ What you need to do:
 
 ### Online Support and Resources
 
-[Andrea Salvi] (https://github.com/AndrSalvi/research-methods) has organized a collection of useful links to help you develop you software skills in addition to our tutorials:
+[Andrea Salvi] (https://github.com/AndrSalvi/research-methods.php) has organized a collection of useful links to help you develop you software skills in addition to our tutorials:
 
 #### SPSS
 
