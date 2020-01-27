@@ -55,12 +55,12 @@ To reiterate, **please copy the contents from the SPSS syntax file at the end of
 
 Below I post the links to the slides I use in our tutorials and a selection of useful links for each tutorial made by the previous tutor Andrea Salvi. You can go to his [github page] (https://github.com/AndrSalvi/research-methods) to access the material from Michaelmas Term and more useful links.
 
-## Hilary Term
+## Hilary Term - 2020
 
-### Tutorial 1, HT
+### Tutorial 1, HT, 2020
 
 #### Tutorial Material
-- [Tutorial Slides (HT 1)]()
+- [Tutorial Slides (HT 1)](https://github.com/letmeni/research-methods/blob/master/course/slides/Tut_1_HT_2020.pdf)
 - [Data from Fearon and Laitin](https://tinyurl.com/method-conflict)
 
 #### Guides
@@ -79,4 +79,4 @@ Below I post the links to the slides I use in our tutorials and a selection of u
 
 ## Acknowledgements
 
-This repo has been forked from PO3600 repo from last year and further adapted/updated. We thank [Stefan Mueller](https://github.com/stefan-mueller) for the amazing resources.
+This repo has been forked from PO3600 repo from last year and further adapted/updated. We thank [Andrea Salvi] (https://github.com/AndrSalvi) and [Stefan Mueller](https://github.com/stefan-mueller) for the amazing resources.
