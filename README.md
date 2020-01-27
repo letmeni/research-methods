@@ -55,7 +55,7 @@ To reiterate, **please copy the contents from the SPSS syntax file at the end of
 
 ## Useful links for each tutorial
 
-Below I post the links to the slides I use in our tutorials and a selection of useful links for each tutorial made by the previous TA Andrea Salvi. You can go to [Andrea's github page](https://github.com/AndrSalvi/research-methods.php) to access the material from Michaelmas Term 2019 and more useful links.
+Below I post the links to the slides I use in our tutorials and a selection of useful links for each tutorial as organized by the previous PO3110 TA Andrea Salvi. You can go to [Andrea's github page](https://github.com/AndrSalvi/research-methods.php) to access the material from Michaelmas Term 2019 and more useful links related to topics covered in his tutorials.
 
 ## Hilary Term - 2020
 
@@ -81,4 +81,4 @@ Below I post the links to the slides I use in our tutorials and a selection of u
 
 ## Acknowledgements
 
-This repo has been forked from 2019 PO3110 repo and further adapted/updated. We thank both [Andrea Salvi](https://github.com/AndrSalvi) and [Stefan Mueller](https://github.com/stefan-mueller), the TA before him, for the amazing resources.
+This repo has been forked from 2019 PO3110 repo and will be further updated in the course of the 2020 HT. We thank both [Andrea Salvi](https://github.com/AndrSalvi) and [Stefan Mueller](https://github.com/stefan-mueller), the TA before him, for the amazing resources.
