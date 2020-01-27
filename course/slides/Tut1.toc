@@ -1,4 +1,0 @@
-\beamer@sectionintoc {1}{General Information}{2}{0}{1}
-\beamer@sectionintoc {2}{Describing a distribution}{8}{0}{2}
-\beamer@sectionintoc {3}{Estimating a parameter from the sample}{18}{0}{3}
-\beamer@sectionintoc {4}{Testing a hypothesis}{27}{0}{4}
