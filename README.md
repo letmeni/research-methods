@@ -1,6 +1,6 @@
 # Tutorials - Research Methods for Political Science (2020)
 
-Hello! In this github page you will find the tutorial slides and some additional materials on topics covered on tutorials from PO3110, [Research Methods for Political Science[B](https://www.tcd.ie/Political_Science/undergraduate/module-outlines/js/research-methods-b/index1920.php). The core material from the module, such as lecture slides, homeworks and datasets can be found on [Blackboard](http://tcd.ie/blackboard). 
+Hello! In this github page you will find the tutorial slides and some additional materials on topics covered on tutorials from PO3110, [Research Methods for Political Science B](https://www.tcd.ie/Political_Science/undergraduate/module-outlines/js/research-methods-b/index1920.php). The core material from the module, such as lecture slides, homeworks and datasets can be found on [Blackboard](http://tcd.ie/blackboard). 
 
 #### Office Hours
 
@@ -8,16 +8,20 @@ It is always better to address doubts you may have during our tutorials, as it m
 
 #### Get and install SPSS
 
-The statistical sofware used in this course is SPSS. As a TCD student, you get a free SPSS license from the [IT Service](https://www.tcd.ie/itservices/help/it-service-desk-contact.php). What you need to do: Either you go to the IT Service Desk, get an installation DVD and fill out a form, or you print the [form](https://www.tcd.ie/itservices/assets/doc/purchase_local/SPSS-Form.pdf), bring it to the IT Service Desk and download SPSS directly from the [TCD download website](https://software.tcd.ie). Note that you will need to be logged in to the TCD network (cabled) to download the software. Once you got the files, follow the instructions provided in the PDF file. 
-The licence code is on the tcd software website, [HERE](https://www.tcd.ie/itservices/local/spss_licence.php).
-If you scroll down on the licence page there should be an heading for the 2018/19 licence.
+The statistical sofware used in this course is SPSS. As a TCD student, you get a free SPSS license from the [IT Service](https://www.tcd.ie/itservices/help/it-service-desk-contact.php). 
 
-You are free to use alternative (and free) statistical software such as [R](https://www.r-project.org) or [JASP](https://jasp-stats.org). 
+What you need to do: 
+
+- Either you go to the IT Service Desk, get an installation DVD and fill out a form, or you print the [form](https://www.tcd.ie/itservices/assets/doc/purchase_local/SPSS-Form.pdf), bring it to the IT Service Desk and download SPSS directly from the [TCD download website](https://software.tcd.ie). 
+- Note that you will need to be logged in to the TCD network (cabled) to download the software. Once you got the files, follow the instructions provided in the PDF file. 
+- The licence code is on the tcd software website, [HERE](https://www.tcd.ie/itservices/local/spss_licence.php).
+- If you scroll down on the licence page there should be an heading for the 2018/19 licence.
+- You are free to use alternative (and free) statistical software such as [R](https://www.r-project.org) or [JASP](https://jasp-stats.org). 
 
 
 ### Online Support and Resources
 
-Andrea Salvi has organized a collection of useful links to help you develop you software skills in addition to our tutorials:
+[Andrea Salvi] (https://github.com/AndrSalvi/research-methods) has organized a collection of useful links to help you develop you software skills in addition to our tutorials:
 
 #### SPSS
 
@@ -49,7 +53,7 @@ To reiterate, **please copy the contents from the SPSS syntax file at the end of
 
 ## Useful links for each tutorial
 
-Below I post the links to the slides I use in our tutorials and a selection of useful links for each tutorial made by the previous tutor Andrea Salvi. You can go to his github page to access the material from Michaelmas Term and more useful links.
+Below I post the links to the slides I use in our tutorials and a selection of useful links for each tutorial made by the previous tutor Andrea Salvi. You can go to his [github page] (https://github.com/AndrSalvi/research-methods) to access the material from Michaelmas Term and more useful links.
 
 ## Hilary Term
 
