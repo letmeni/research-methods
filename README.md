@@ -21,7 +21,7 @@ What you need to do:
 
 ### Online Support and Resources
 
-[Andrea Salvi] (https://github.com/AndrSalvi/research-methods.php) has organized a collection of useful links to help you develop you software skills in addition to our tutorials:
+[Andrea Salvi](https://github.com/AndrSalvi/research-methods.php) has organized a collection of useful links to help you develop you software skills in addition to our tutorials:
 
 #### SPSS
 
@@ -53,14 +53,14 @@ To reiterate, **please copy the contents from the SPSS syntax file at the end of
 
 ## Useful links for each tutorial
 
-Below I post the links to the slides I use in our tutorials and a selection of useful links for each tutorial made by the previous tutor Andrea Salvi. You can go to his [github page] (https://github.com/AndrSalvi/research-methods) to access the material from Michaelmas Term and more useful links.
+Below I post the links to the slides I use in our tutorials and a selection of useful links for each tutorial made by the previous tutor Andrea Salvi. You can go to [Andrea's github page](https://github.com/AndrSalvi/research-methods.php) to access the material from Michaelmas Term 2019 and more useful links.
 
 ## Hilary Term - 2020
 
 ### Tutorial 1, HT, 2020
 
 #### Tutorial Material
-- [Tutorial Slides (HT 1)](https://github.com/letmeni/research-methods/blob/master/course/slides/Tut_1_HT_2020.pdf)
+- [Tutorial Slides (HT 1 2020)](https://github.com/letmeni/research-methods/blob/master/course/slides/Tut_1_HT_2020.pdf)
 - [Data from Fearon and Laitin](https://tinyurl.com/method-conflict)
 
 #### Guides
@@ -79,4 +79,4 @@ Below I post the links to the slides I use in our tutorials and a selection of u
 
 ## Acknowledgements
 
-This repo has been forked from PO3600 repo from last year and further adapted/updated. We thank [Andrea Salvi](https://github.com/AndrSalvi) and [Stefan Mueller](https://github.com/stefan-mueller) for the amazing resources.
+This repo has been forked from PO3600 repo from last year and further adapted/updated. We thank [Andrea Salvi](https://github.com/AndrSalvi) and [Stefan Mueller](https://github.com/stefan-mueller), the tutor before him, for the amazing resources.
