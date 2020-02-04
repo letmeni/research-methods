@@ -81,6 +81,81 @@ Below I post the links to the slides I use in our tutorials and a selection of u
 - [Collection of political datasets](https://github.com/erikgahner/PolData)
 - [NSD Data Overview](http://www.nsd.uib.no/nsd/english/datatjenester.html)
 
+
+### Tutorial 2, HT
+- [Tutorial Slides (HT 2)](https://github.com/letmeni/research-methods/blob/master/course/slides/Tut_2_HT_2020.pdf)
+- [Data from Fearon and Laitin](https://tinyurl.com/method-conflict)
+
+#### Guides
+- [Run a linear regression in SPSS and interpret the output](https://statistics.laerd.com/spss-tutorials/linear-regression-using-spss-statistics.php)
+- [Kieran Healy. 2018. Data Visualization: A Practical Introduction](http://socviz.co)
+- [Simulate the coverage of confidence intervals](https://istats.shinyapps.io/ExploreCoverage/)
+
+### Tutorial 3, HT
+- [Tutorial Slides (HT 3)](https://github.com/letmeni/research-methods/blob/master/course/slides/Tut_3_HT_2020.pdf)
+- [Norris Dataset](https://github.com/AndrSalvi/research-methods/blob/master/course/data/ht2/Norris.sav)
+
+
+### Guides
+- [SPSS Annotated Output Regression Analysis](https://stats.idre.ucla.edu/spss/output/regression-analysis/)
+
+### Tutorial 4, HT
+- [Tutorial Slides (HT 4)](https://github.com/letmeni/research-methods/blob/master/course/slides/Tut_4_HT_2020.pdf)
+- [Norris Data](https://tinyurl.com/norris-ht4)
+
+### Guides
+- [How To Visualise Your Data (Financial Times)](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary)
+- [Difference between t-test and F-test](https://keydifferences.com/difference-between-t-test-and-f-test.html)
+- [SPSS Regression Diagnostics](https://stats.idre.ucla.edu/spss/seminars/introduction-to-regression-with-spss/introreg-lesson2/)
+- [Testing Assumptions of Linear Regression in SPSS](http://www.statisticssolutions.com/testing-assumptions-of-linear-regression-in-spss/)
+- [Regression Diagnostics in R](https://www.statmethods.net/stats/rdiagnostics.html)
+- [Reverse Engineering a Regression Table](https://achimkemmerling.files.wordpress.com/2018/01/regressiontable1.pdf)
+- [Understanding Cook's Distance Using SPSS](https://www.youtube.com/watch?v=AJT65PS8MCw)
+- [Influential Observations](http://onlinestatbook.com/2/regression/influential.html)
+
+### Tutorial 5, HT
+- [Tutorial Slides (HT 5)](https://github.com/letmeni/research-methods/blob/master/course/slides/Tut_5_HT_2020.pdf)
+
+### Guides
+See Tutorial 4!
+
+
+### Tutorial 6, HT
+- [Tutorial Slides (HT 6)](https://github.com/letmeni/research-methods/blob/master/course/slides/Tut_6_HT_2020.pdf)
+- [Anes 2016 Data](https://tinyurl.com/anes16sav)
+
+### Guides
+- [Interaction Effects: Food and condiment example](https://statisticsbyjim.com/regression/interaction-effects/)
+- [More on interaction effects](https://www.theanalysisfactor.com/interpreting-interactions-in-regression/)
+
+### Tutorial 7, HT
+- [Tutorial Slides (HT 7)](https://github.com/letmeni/research-methods/blob/master/course/slides/Tut_7_HT_2020.pdf)
+- [Anes 2016 Data](https://tinyurl.com/anes16sav)
+
+### Guides
+- [Binomial Logistic Regression in SPSS](https://statistics.laerd.com/spss-tutorials/binomial-logistic-regression-using-spss-statistics.php)
+- [Interpret Odds-Ratio in Logistic Regression](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-how-do-i-interpret-odds-ratios-in-logistic-regression/)
+
+### Tutorial 8, HT
+- [Tutorial Slides (HT 8)](https://github.com/letmeni/research-methods/blob/master/course/slides/Tut_8_HT_2020.pdf)
+
+### Guides
+- [Pseudo R Squares](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-what-are-pseudo-r-squareds/)
+- [Regression with Categorical Predictors](https://stats.idre.ucla.edu/spss/seminars/introduction-to-regression-with-spss/introreg-lesson3/)
+- [Creating Dummy Variables in SPSS](https://www.spss-tutorials.com/creating-dummy-variables-in-spss/)
+- [Interpretation of Dummy Variables (intuitive examples)](https://stattrek.com/multiple-regression/dummy-variables.aspx)
+
+### Tutorial 9, HT
+- [Tutorial Slides (HT 9)](https://github.com/letmeni/research-methods/blob/master/course/slides/Tut_9_HT_2020.pdf)
+
+
+### Tutorial 10, HT
+- [Tutorial Slides (HT 10)](https://github.com/letmeni/research-methods/blob/master/course/slides/Tut_10_HT_2020.pdf)
+- [Data on Happiness](http://tinyurl.com/happinessht10)
+
+
+
+
 ## Acknowledgements
 
 This repo has been forked from 2019 PO3110 repo and will be further updated in the course of the 2020 HT. We thank both [Andrea Salvi](https://github.com/AndrSalvi) and [Stefan Mueller](https://github.com/stefan-mueller), the TA before him, for the amazing resources.
