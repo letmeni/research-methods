@@ -8,7 +8,7 @@ The core module material, such as lecture slides, homeworks and datasets can be 
 
 #### Office Hours
 
-It is always better to address doubts you may have during our tutorials, as it may help some of your classmates as well. In any case, I am available to meet upon request, preferrably on Tuesdays (11 to 12). You can reach me through my email: leticia.barbabela@ucdconnect.ie
+It is always better to address doubts you may have during our tutorials, as it may help some of your classmates as well. In any case, I am available to meet upon request, preferrably on Tuesdays (12 to 13). You can reach me through my email: leticia.barbabela@ucdconnect.ie
 
 #### Get and install SPSS
 
