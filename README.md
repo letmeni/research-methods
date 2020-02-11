@@ -92,7 +92,7 @@ Below I post the links to the slides I use in our tutorials and a selection of u
 - [Simulate the coverage of confidence intervals](https://istats.shinyapps.io/ExploreCoverage/)
 
 ### Tutorial 3, HT
-- [Tutorial Slides (HT 3)](https://github.com/letmeni/research-methods/blob/master/course/slides/Tut_3_HT_2020.pdf)
+- [Tutorial Slides (HT 3)](https://github.com/letmeni/research-methods/blob/master/course/Tut_3_HT_2020.pdf)
 - [Norris Dataset](https://github.com/AndrSalvi/research-methods/blob/master/course/data/ht2/Norris.sav)
 
 
