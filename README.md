@@ -123,6 +123,7 @@ See Tutorial 4!
 ### Tutorial 6, HT
 - [Tutorial Slides (HT 6)](https://github.com/letmeni/research-methods/blob/master/course/slides/Tut_6_HT_2020.pdf)
 - [Anes 2016 Data](https://tinyurl.com/anes16sav)
+- [Pork barrel (Fake data)](https://github.com/letmeni/research-methods/blob/master/course/slides/pork_barrel.csv)
 
 ### Guides
 - [Interaction Effects: Food and condiment example](https://statisticsbyjim.com/regression/interaction-effects/)
