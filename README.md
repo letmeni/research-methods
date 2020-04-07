@@ -152,9 +152,6 @@ See Tutorial 4!
 
 ### Tutorial 10, HT
 - [Tutorial Slides (HT 10)](https://github.com/letmeni/research-methods/blob/master/course/slides/Tut_10_HT_2020.pdf)
-- [Data on Happiness](http://tinyurl.com/happinessht10)
-
-
 
 
 ## Acknowledgements
